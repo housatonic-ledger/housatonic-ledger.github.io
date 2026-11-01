@@ -1,0 +1,32 @@
+name: Refresh external RSS headlines
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/rss-headlines.yml
+      - scripts/update_feeds.py
+  schedule:
+    - cron: '15 */6 * * *'
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh attributed RSS headline cache
+        run: python scripts/update_feeds.py
+      - name: Commit cache if changed
+        run: |
+          if ! git diff --quiet -- feeds.json; then
+            git config user.name "Housatonic Ledger feed bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add feeds.json
+            git commit -m "Refresh attributed external news headlines"
+            git push
+          fi
