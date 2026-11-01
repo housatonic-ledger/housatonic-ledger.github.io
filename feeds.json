@@ -1,6 +1,37 @@
 {
-  "updated_at": null,
-  "items": [],
+  "updated_at": "2026-11-01T23:56:42.722693+00:00",
+  "items": [
+    {
+      "source": "NPR",
+      "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast"
+    },
+    {
+      "source": "NPR",
+      "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers"
+    },
+    {
+      "source": "NPR",
+      "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke"
+    },
+    {
+      "source": "BBC News",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Five teenagers stabbed at Halloween party",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
+    }
+  ],
   "sources": [
     {
       "name": "NPR",
