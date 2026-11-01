@@ -1,0 +1,14 @@
+{
+  "updated_at": null,
+  "items": [],
+  "sources": [
+    {
+      "name": "NPR",
+      "feed": "https://feeds.npr.org/1001/rss.xml"
+    },
+    {
+      "name": "BBC News",
+      "feed": "https://feeds.bbci.co.uk/news/rss.xml"
+    }
+  ]
+}
