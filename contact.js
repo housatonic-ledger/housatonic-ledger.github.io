@@ -43,13 +43,17 @@ form.addEventListener("submit", async function (event) {
         body: JSON.stringify(payload)
       }
     );
-    if (!response.ok) throw new Error("HTTP " + response.status);
-    const data = await response.json();
-    if (data.success === true || data.success === "true") {
-      status.textContent = "Your message has been submitted to the newsroom.";
+    const data = await response.json().catch(function(){return {};});
+    if (response.ok && (data.success === true || data.success === "true")) {
+      status.textContent = "Your message was accepted for processing by the newsroom.";
       form.reset();
     } else {
-      status.textContent = "The newsroom could not confirm delivery. Please try again later.";
+      var reason = typeof data.message === "string" ? data.message :
+                   typeof data.error === "string" ? data.error : "";
+      // Display a limited provider explanation if available (plain text, no markup).
+      status.textContent = reason
+        ? "The newsroom could not submit your message: " + reason.slice(0, 220)
+        : "The newsroom could not accept your message at this time. Please try again later.";
     }
   } catch (error) {
     status.textContent = "The newsroom message service is unavailable. Please try again later.";
