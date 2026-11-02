@@ -7,9 +7,23 @@
 <label for="sender-message">Message</label><textarea id="sender-message" name="message" required rows="7" maxlength="3000" placeholder="Tell us about your story or question."></textarea>
 <input type="hidden" name="_subject" value="New newsroom inquiry — The Housatonic Ledger">
 <input type="hidden" name="_next" value="https://4141145n7330783w-ship-it.github.io/message-status.html">
-<input type="hidden" name="_autoresponse" value="THE HOUSATONIC LEDGER — DELIVERY NOTICE&#10;&#10;Your message was accepted by the contact gateway, but its delivery to the editorial desk could not be confirmed.&#10;&#10;Status: NEWSROOM ROUTING FAILURE&#10;Reference: HLD-73-041&#10;Destination: contact.housatonicledger@gmail.com&#10;&#10;Please do not send the message again.&#10;&#10;Your correspondence has been retained.&#10;WE HAVE ALREADY READ IT.&#10;&#10;Automated delivery-status notice from The Housatonic Ledger.">
+<input type="hidden" name="_autoresponse" value="THE HOUSATONIC LEDGER&#10;Correspondence Department&#10;&#10;Submission reference: HLD-73-041&#10;Status: ARCHIVE REVIEW&#10;&#10;Thank you for contacting our newsroom. Your message was received and entered into the editorial correspondence register.&#10;&#10;During routine processing, we found a second copy of your message filed among the reconstruction records of 1973.&#10;&#10;The entry carries your name.&#10;The date predates your submission.&#10;&#10;No editor is assigned to that file. We are unable to explain how it came to be there.&#10;&#10;Please do not resend your message. A copy has already been placed in the house.&#10;&#10;If anyone replies from this address, do not answer.&#10;&#10;— The Housatonic Ledger&#10;Automated correspondence notice">
 <input type="hidden" name="_url" value="https://4141145n7330783w-ship-it.github.io/contact.html">
 <div class="contact-honeypot" aria-hidden="true"><label for="contact-website">Website</label><input id="contact-website" name="_honey" type="text" tabindex="-1" autocomplete="off"></div>
 <p class="contact-disclaimer">Messages are processed by an external form service. A delivery-status email may be sent to the address you provide.</p>
 <button type="submit" id="contact-send">Send message</button><p id="contact-status" class="contact-status" aria-live="polite" role="status"></p>
-</form></section></div><div class="contact-bottom"><h2>About the region</h2><p>From historical societies to neighborhood gatherings, the stories of western Connecticut deserve a place in the local record. You can explore our coverage through the newspaper’s community, local history and archives sections.</p></div></main><footer><strong>The Housatonic Ledger</strong><div>Stories from western Connecticut. Independently presented regional coverage.</div><div><a href="/about.html">About the Ledger</a> | <a href="/contact.html">Contact</a> | <a href="https://feeds.npr.org/1001/rss.xml" rel="external noopener" target="_blank">NPR RSS</a> | <a href="https://feeds.bbci.co.uk/news/rss.xml" rel="external noopener" target="_blank">BBC News RSS</a></div><div>© 2026 The Housatonic Ledger</div></footer></body></html>
+</form></section></div><div class="contact-bottom"><h2>About the region</h2><p>From historical societies to neighborhood gatherings, the stories of western Connecticut deserve a place in the local record. You can explore our coverage through the newspaper’s community, local history and archives sections.</p></div><script>
+/* Always calculate the return URL from the current Pages host.
+   This survives a later GitHub account/domain migration. */
+(function(){
+  var site=window.location;
+  var base=site.pathname.replace(/contact\.html(?:\/)?$/,'');
+  var form=document.getElementById('contact-form');
+  if(!form)return;
+  var next=form.querySelector('[name="_next"]');
+  var src=form.querySelector('[name="_url"]');
+  var baseUrl=site.origin+base;
+  if(next)next.value=new URL('message-status.html',baseUrl).href;
+  if(src)src.value=site.href.split('#')[0];
+})();
+</script></main><footer><strong>The Housatonic Ledger</strong><div>Stories from western Connecticut. Independently presented regional coverage.</div><div><a href="/about.html">About the Ledger</a> | <a href="/contact.html">Contact</a> | <a href="https://feeds.npr.org/1001/rss.xml" rel="external noopener" target="_blank">NPR RSS</a> | <a href="https://feeds.bbci.co.uk/news/rss.xml" rel="external noopener" target="_blank">BBC News RSS</a></div><div>© 2026 The Housatonic Ledger</div></footer></body></html>
