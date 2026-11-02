@@ -58,3 +58,17 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .local-feature .hidden-ink p::selection{background:#2e65bc!important;color:#fff!important;-webkit-text-fill-color:#fff!important}
 .local-feature .hidden-ink p::-moz-selection{background:#2e65bc!important;color:#fff!important}
 @media(max-width:840px){.news-layout{grid-template-columns:1fr;gap:20px}.local-feature .prose .readable-content>p{font-size:17px}.newspaper-aside{margin:15px 0 40px}.related-item a{font-size:17px}}
+
+/* Newsroom correspondence */
+.contact-heading{max-width:790px;border-bottom:1px solid var(--border);padding:0 0 35px}.contact-heading h1{margin:14px 0 20px}.contact-heading .standfirst{font:21px/1.6 var(--serif);color:#5b6b6d}
+.contact-columns{display:grid;grid-template-columns:minmax(0,1fr) minmax(320px,.85fr);gap:75px;padding:45px 0;max-width:1090px}
+.contact-columns h2{font-size:28px;margin:0 0 19px}.contact-columns h3{font-size:21px;margin:29px 0 14px}.contact-columns p{font:17px/1.8 var(--serif);color:#4c5e61}.contact-mail{font:700 18px/1.55 var(--sans)!important;color:var(--navy)!important;overflow-wrap:anywhere;margin:22px 0}
+.contact-fine{font:12px/1.7 var(--sans)!important;color:var(--gray)!important}
+.contact-panel{align-self:start;background:#f0efe9;border:1px solid var(--border);padding:26px 30px}
+.contact-panel h2{margin:10px 0 17px}.contact-fields{display:flex;flex-direction:column;gap:8px}
+.contact-fields label{font:700 12px var(--sans);color:#465a5c;margin-top:11px}
+.contact-fields input,.contact-fields select,.contact-fields textarea{background:white;border:1px solid #b7c0bc;border-radius:0;padding:12px 13px;color:var(--ink);font:14px/1.55 var(--sans);width:100%;min-width:0;resize:vertical}
+.contact-fields :is(input,select,textarea):focus{outline:2px solid var(--rust);outline-offset:1px}
+.contact-fields button{background:var(--navy);color:#fff;border:0;padding:16px;margin-top:13px;font:700 12px var(--sans);letter-spacing:.12em;text-transform:uppercase;cursor:pointer}.contact-fields button:hover{background:#355261}
+.contact-status{margin:0!important;font:13px/1.7 var(--sans)!important;color:#934b3a!important}.contact-bottom{border-top:1px solid var(--border);max-width:750px;padding:29px 0 0}.contact-bottom p{color:#607174}
+@media(max-width:800px){.contact-columns{grid-template-columns:1fr;gap:25px;padding:35px 0}.contact-panel{padding:23px 20px}.contact-heading .standfirst{font-size:18px}}

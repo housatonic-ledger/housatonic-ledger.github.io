@@ -1,0 +1,1 @@
+(function(){"use strict";var b=document.getElementById("contact-send"),s=document.getElementById("contact-status");if(!b||!s)return;b.addEventListener("click",function(){s.textContent="Delivery failed. The newsroom message service is temporarily unavailable. Please try again later.";});})();
