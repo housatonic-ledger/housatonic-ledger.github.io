@@ -78,7 +78,7 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
   margin:13px 0 0!important;
   font-weight:700!important;
   letter-spacing:.11em;
-  color:#823b38!important;
+  color:#000!important;
 }
 .local-feature .hidden-ink ::selection{background:#234d74;color:#fff}
 .local-feature .hidden-ink ::-moz-selection{background:#234d74;color:#fff}
