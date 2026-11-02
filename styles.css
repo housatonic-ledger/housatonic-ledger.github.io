@@ -53,10 +53,33 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .related-item a{display:block;font:700 19px/1.42 var(--serif);text-decoration:none;margin-top:6px}
 .related-item a:hover{text-decoration:underline;text-decoration-color:var(--rust)}
 /* Invisible ink without a panel or blank block. Selection highlights the actual hidden words. */
-.local-feature .hidden-ink{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:space-around;z-index:2;pointer-events:none;background:transparent!important;overflow:visible;color:var(--paper);margin:0;padding:0}
-.local-feature .prose .hidden-ink p{position:relative;display:block;pointer-events:auto;max-width:100%;margin:0!important;font:13px/1.45 Georgia,serif!important;color:var(--paper)!important;-webkit-text-fill-color:var(--paper)!important;overflow-wrap:anywhere;-webkit-user-select:text;user-select:text}
-.local-feature .hidden-ink p::selection{background:#2e65bc!important;color:#fff!important;-webkit-text-fill-color:#fff!important}
-.local-feature .hidden-ink p::-moz-selection{background:#2e65bc!important;color:#fff!important}
+/* Profiles: concealed text blends into the page, but must be readable when selected.
+   Do not set -webkit-text-fill-color on the unselected element:
+   Safari on iOS may keep that inherited fill even inside ::selection. */
+.local-feature .hidden-ink{
+  position:absolute;inset:0;display:flex;flex-direction:column;justify-content:space-around;
+  z-index:2;pointer-events:none;background:transparent!important;overflow:visible;
+  color:var(--paper);margin:0;padding:0;
+  -webkit-user-select:text;user-select:text;-webkit-touch-callout:default
+}
+.local-feature .prose .hidden-ink p{
+  position:relative;display:block;pointer-events:auto;max-width:100%;
+  margin:0!important;font:14px/1.5 Georgia,serif!important;
+  color:var(--paper)!important;
+  /* No -webkit-text-fill-color here: CSS selection has to override ink color. */
+  overflow-wrap:anywhere;
+  -webkit-user-select:text!important;user-select:text!important;
+  -webkit-touch-callout:default
+}
+.local-feature .hidden-ink::selection,
+.local-feature .hidden-ink *::selection{
+  background:#173a54!important;color:#fff!important;
+  text-shadow:none!important
+}
+.local-feature .hidden-ink::-moz-selection,
+.local-feature .hidden-ink *::-moz-selection{
+  background:#173a54!important;color:#fff!important;text-shadow:none!important
+}
 @media(max-width:840px){.news-layout{grid-template-columns:1fr;gap:20px}.local-feature .prose .readable-content>p{font-size:17px}.newspaper-aside{margin:15px 0 40px}.related-item a{font-size:17px}}
 
 /* Newsroom correspondence */
