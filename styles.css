@@ -39,6 +39,9 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .local-feature .prose .readable-content{position:relative}
 .local-feature .prose .readable-content>p{font:18px/1.9 var(--serif);margin:0 0 29px}
 .local-feature .prose .readable-content>p:first-child:first-letter{float:none;font:inherit;color:inherit;margin:0}
+/* Do not render the hidden prayer's opening S as the article drop cap. */
+.local-feature .prose .hidden-ink p:first-child::first-letter{float:none!important;font:inherit!important;color:inherit!important;margin:0!important}
+
 .local-feature .prose .phase-1{letter-spacing:.018em;color:#59666b}
 .local-feature .prose .phase-2{letter-spacing:.045em;color:#49575a}
 .local-feature .prose .phase-3{font-family:'Courier New',monospace;line-height:1.75;letter-spacing:.07em;color:#424f50}
