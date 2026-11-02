@@ -72,3 +72,10 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .contact-fields button{background:var(--navy);color:#fff;border:0;padding:16px;margin-top:13px;font:700 12px var(--sans);letter-spacing:.12em;text-transform:uppercase;cursor:pointer}.contact-fields button:hover{background:#355261}
 .contact-status{margin:0!important;font:13px/1.7 var(--sans)!important;color:#934b3a!important}.contact-bottom{border-top:1px solid var(--border);max-width:750px;padding:29px 0 0}.contact-bottom p{color:#607174}
 @media(max-width:800px){.contact-columns{grid-template-columns:1fr;gap:25px;padding:35px 0}.contact-panel{padding:23px 20px}.contact-heading .standfirst{font-size:18px}}
+
+.contact-actions[hidden]{display:none!important}
+.contact-actions{display:flex;gap:10px;flex-wrap:wrap;align-items:stretch;margin:10px 0 6px}
+.contact-actions a{display:inline-flex;justify-content:center;align-items:center;flex:1 1 130px;min-height:43px;background:#2b4953;border:1px solid #2b4953;color:#fff;font:700 12px/1.3 var(--sans);text-decoration:none;text-align:center;padding:12px}
+.contact-actions a:last-of-type{background:transparent;color:#2b4953}
+.contact-actions a:hover{opacity:.85}
+.contact-actions .contact-disclaimer{flex:1 0 100%;margin:2px 0 8px!important;color:#687c81!important;font:12px/1.55 var(--sans)!important}
