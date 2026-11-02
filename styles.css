@@ -79,3 +79,7 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .contact-actions a:last-of-type{background:transparent;color:#2b4953}
 .contact-actions a:hover{opacity:.85}
 .contact-actions .contact-disclaimer{flex:1 0 100%;margin:2px 0 8px!important;color:#687c81!important;font:12px/1.55 var(--sans)!important}
+
+.contact-honeypot{position:absolute!important;left:-9999px!important;width:1px!important;height:1px!important;overflow:hidden!important}
+.contact-fields button:disabled{opacity:.55;cursor:wait}
+.contact-disclaimer{font:12px/1.6 var(--sans)!important;color:#647377!important;margin:10px 0 2px!important}
