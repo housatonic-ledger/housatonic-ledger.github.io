@@ -30,3 +30,31 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .archive-console{background:#111b16;color:#aac0ac;padding:30px;font:15px/1.9 'Courier New',monospace;box-shadow:inset 0 0 80px #000;border:9px solid #27352d;overflow-wrap:anywhere;margin:35px 0}.archive-console .dim{color:#65786a}.archive-console .code{font-size:20px;letter-spacing:.14em;color:#b9d1ba}.archive-console hr{border:0;border-top:1px dashed #506454}.archive-console .flicker{opacity:.55}
 .footnote{font:12px/1.7 var(--sans);color:#86908a;margin-top:40px}.aboutcopy{max-width:770px;font:18px/1.86 var(--serif)}.aboutcopy h2{margin-top:36px}
 @media(max-width:760px){.nav .mark{display:none}.nav a{padding:12px 11px;font-size:10px}.newsgrid,.lower{grid-template-columns:1fr}.lead{border-right:0;padding-right:0;border-bottom:1px solid var(--border);padding-bottom:31px}.lower{gap:25px}#feed-items{grid-template-columns:1fr}.top>div{padding:10px 14px}.top .right{display:none}main{padding:30px 17px 60px}.lead p{font-size:17px}.article .prose{font-size:17px}.article .standfirst{font-size:18px}.corrupt-main .body p{font-size:17px}.buried-scripture{padding:10px 4px}.history-document{padding:16px}.community-frame{padding:22px 13px;border-width:8px}.archive-console{padding:16px}}@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+/* News story pages retain normal newspaper layout until the corruption creeps into late paragraphs. */
+.news-layout{display:grid;grid-template-columns:minmax(0,760px) minmax(230px,300px);gap:55px;align-items:start}
+.news-layout .local-feature{width:100%;max-width:none;padding:0 0 50px}
+.local-feature h1{margin:18px 0 24px}
+.local-feature .standfirst{font-size:21px}
+.local-feature .prose{max-width:none;margin:0;position:relative}
+.local-feature .prose .readable-content{position:relative}
+.local-feature .prose .readable-content>p{font:18px/1.9 var(--serif);margin:0 0 29px}
+.local-feature .prose .readable-content>p:first-child:first-letter{float:none;font:inherit;color:inherit;margin:0}
+.local-feature .prose .phase-1{letter-spacing:.018em;color:#59666b}
+.local-feature .prose .phase-2{letter-spacing:.045em;color:#49575a}
+.local-feature .prose .phase-3{font-family:'Courier New',monospace;line-height:1.75;letter-spacing:.07em;color:#424f50}
+.local-feature .prose .phase-4{font-family:'Courier New',monospace;line-height:1.57;letter-spacing:.13em;font-weight:700;color:#2c3334;overflow-wrap:anywhere}
+.local-feature .prose .endnote{border-top:1px solid var(--border);padding-top:18px;margin-top:35px;font:11px var(--sans);color:var(--gray)}
+.newspaper-aside{border-top:3px solid var(--navy);padding-top:12px}
+.newspaper-aside h2{font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.15em;margin:12px 0 9px}
+.newspaper-aside>p{font:13px/1.7 var(--sans);color:var(--gray)}
+.newspaper-aside>a{font:700 12px var(--sans);text-decoration:underline}
+.related-item{border-bottom:1px solid var(--border);padding:17px 0}
+.related-item span{display:block;font:700 10px var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--rust)}
+.related-item a{display:block;font:700 19px/1.42 var(--serif);text-decoration:none;margin-top:6px}
+.related-item a:hover{text-decoration:underline;text-decoration-color:var(--rust)}
+/* Invisible ink without a panel or blank block. Selection highlights the actual hidden words. */
+.local-feature .hidden-ink{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:space-around;z-index:2;pointer-events:none;background:transparent!important;overflow:visible;color:var(--paper);margin:0;padding:0}
+.local-feature .prose .hidden-ink p{position:relative;display:block;pointer-events:auto;max-width:100%;margin:0!important;font:13px/1.45 Georgia,serif!important;color:var(--paper)!important;-webkit-text-fill-color:var(--paper)!important;overflow-wrap:anywhere;-webkit-user-select:text;user-select:text}
+.local-feature .hidden-ink p::selection{background:#2e65bc!important;color:#fff!important;-webkit-text-fill-color:#fff!important}
+.local-feature .hidden-ink p::-moz-selection{background:#2e65bc!important;color:#fff!important}
+@media(max-width:840px){.news-layout{grid-template-columns:1fr;gap:20px}.local-feature .prose .readable-content>p{font-size:17px}.newspaper-aside{margin:15px 0 40px}.related-item a{font-size:17px}}
