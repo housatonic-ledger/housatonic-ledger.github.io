@@ -52,52 +52,33 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .related-item span{display:block;font:700 10px var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--rust)}
 .related-item a{display:block;font:700 19px/1.42 var(--serif);text-decoration:none;margin-top:6px}
 .related-item a:hover{text-decoration:underline;text-decoration-color:var(--rust)}
-/* Invisible ink without a panel or blank block. Selection highlights the actual hidden words. */
-/* Profiles: concealed transcript is ordinary selectable DOM text.
-   It must participate in normal document flow: an absolutely positioned
-   layer over article copy prevents reliable iOS selection and translation. */
+/* Profiles: zero visible gap until the archive text is uncovered by selection. */
+.local-feature .hidden-ink[hidden]{display:none!important}
 .local-feature .hidden-ink{
-  position:static;
   display:block;
-  width:100%;
-  margin:26px 0 30px;
+  margin:8px 0 12px;
   padding:0;
-  background:none;
-  color:var(--paper);
-  opacity:1;
-  pointer-events:auto;
-  overflow:visible;
+  border:0;
+  background:transparent;
   -webkit-user-select:text;
   user-select:text;
-  -webkit-touch-callout:default
 }
 .local-feature .prose .hidden-ink p{
-  display:block;
-  position:static;
-  width:100%;
-  margin:0 0 13px!important;
-  font:14px/1.5 Georgia,'Times New Roman',serif!important;
-  color:var(--paper);
+  margin:0 0 9px!important;
+  font:14px/1.48 Georgia,'Times New Roman',serif!important;
+  color:#343f42!important;
   overflow-wrap:anywhere;
-  pointer-events:auto;
-  -webkit-user-select:text;
-  user-select:text;
-  -webkit-touch-callout:default
+  -webkit-user-select:text!important;
+  user-select:text!important;
 }
-/* Unlike unselected ink, selected text needs no special WebKit text-fill.
-   Let the system's selection and translate functions see native text. */
-.local-feature .hidden-ink::selection,
-.local-feature .hidden-ink *::selection{
-  color:#fff;
-  background:#153e66;
-  text-shadow:none
+.local-feature .prose .hidden-ink p:last-child{
+  margin:13px 0 0!important;
+  font-weight:700!important;
+  letter-spacing:.11em;
+  color:#823b38!important;
 }
-.local-feature .hidden-ink::-moz-selection,
-.local-feature .hidden-ink *::-moz-selection{
-  color:#fff;
-  background:#153e66;
-  text-shadow:none
-}
+.local-feature .hidden-ink ::selection{background:#234d74;color:#fff}
+.local-feature .hidden-ink ::-moz-selection{background:#234d74;color:#fff}
 @media(max-width:840px){.news-layout{grid-template-columns:1fr;gap:20px}.local-feature .prose .readable-content>p{font-size:17px}.newspaper-aside{margin:15px 0 40px}.related-item a{font-size:17px}}
 
 /* Newsroom correspondence */
