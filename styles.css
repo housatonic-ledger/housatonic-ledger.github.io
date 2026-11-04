@@ -167,3 +167,11 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 }
 .archive-verse-lines span{display:block}
 @media(max-width:600px){.local-feature .prose .readable-content>p.archive-verse-lines{font-size:13px!important;line-height:1.6!important;padding-left:5px!important}}
+
+/* The small, apparently ordinary accession slip containing the Dante book cipher. */
+.archive-catalog-card{max-width:530px;margin:3px 0 30px;padding:23px 27px 21px;background:#f2f0e8;border:1px solid #d0d0c8;box-shadow:0 2px 5px rgba(21,30,31,.045);color:#3c484a}
+.archive-catalog-id{font:700 10px/1.6 var(--sans);letter-spacing:.1em;color:#748082;border-bottom:1px solid #d7d6ce;padding-bottom:11px;margin-bottom:15px}
+.archive-catalog-heading{font:600 12px/1.7 Georgia,var(--serif);letter-spacing:.06em;text-transform:uppercase;color:#536265}
+.archive-catalog-numbers{font:16px/1.95 'Courier New',monospace;letter-spacing:.11em;padding:12px 0 15px;color:#303a3d}
+.archive-catalog-note{font:italic 13px/1.7 Georgia,var(--serif);color:#697475;border-top:1px solid #d7d6ce;padding-top:12px}
+@media(max-width:600px){.archive-catalog-card{padding:18px;margin-bottom:26px}.archive-catalog-numbers{font-size:15px}}
