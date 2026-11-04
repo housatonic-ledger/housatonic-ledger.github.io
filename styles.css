@@ -167,3 +167,28 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 }
 .archive-verse-lines span{display:block}
 @media(max-width:600px){.local-feature .prose .readable-content>p.archive-verse-lines{font-size:13px!important;line-height:1.6!important;padding-left:5px!important}}
+
+/* Understated town links and locally attributed RSS cards. */
+.issue-bar .town-links{display:inline-flex;flex-wrap:wrap;align-items:center;gap:7px;line-height:1.6}
+.issue-bar .town-links a{text-decoration:none;color:inherit;border-bottom:1px solid transparent;transition:border-color .15s ease}
+.issue-bar .town-links a:hover,.issue-bar .town-links a:focus-visible{color:var(--rust);border-bottom-color:var(--rust)}
+.issue-bar .town-links span{color:#909c9c}
+.town-wire{margin:42px 0 38px;padding:25px 0 10px;border-top:3px solid var(--navy)}
+.town-wire .section-heading{margin-bottom:9px}
+.town-wire .section-heading h2{margin:0;font-size:31px}
+.town-wire-label{font:700 10px/1.6 var(--sans);color:#7a8686;letter-spacing:.09em;text-transform:uppercase}
+.town-wire-intro{font:14px/1.7 var(--sans);color:#687777;max-width:740px;margin:0 0 24px}
+.town-wire-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px}
+.town-wire-card{scroll-margin-top:28px;border-top:1px solid var(--border);padding:16px 0 6px;min-width:0}
+.town-wire-card:target{border-top-color:var(--rust)}
+.town-wire-heading{display:flex;justify-content:space-between;gap:16px;align-items:center;margin-bottom:12px}
+.town-wire-heading h3{font:700 23px/1.25 var(--serif);margin:0;letter-spacing:-.025em}
+.town-wire-heading a{font:700 10px var(--sans);color:var(--navy);text-transform:uppercase;letter-spacing:.08em;white-space:nowrap;text-decoration:none;border-bottom:1px solid var(--rust);padding-bottom:3px}
+.town-wire-item{border-top:1px solid #e3e4df;padding:11px 0}
+.town-wire-item:first-child{border-top:0}
+.town-wire-item a{font:700 16px/1.42 var(--serif);text-decoration:none;display:block}
+.town-wire-item a:hover{text-decoration:underline;text-decoration-color:var(--rust)}
+.town-wire-source{display:block;font:10px/1.6 var(--sans);color:#758083;letter-spacing:.015em;margin-top:5px}
+.town-wire-empty,.town-wire-status{font:12px/1.6 var(--sans);color:#768183}
+.town-wire-status{margin:18px 0 0}
+@media(max-width:700px){.town-wire-grid{grid-template-columns:1fr;gap:17px}.town-wire{margin-top:30px}.town-wire .section-heading{display:block}.town-wire-label{display:block;margin-top:10px}.town-wire .section-heading h2{font-size:27px}.town-wire-heading h3{font-size:22px}.issue-bar .town-links{gap:5px;flex-basis:100%}}
