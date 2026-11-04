@@ -1,25 +1,125 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-11-04T13:22:48.144534+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
       "feed": "https://news.google.com/rss/search?q=%22Newtown%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
-      "items": []
+      "items": [
+        {
+          "title": "Midterm Elections Underway. Here Are Your Choices And Voting Options.",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFhPekw0eGRKaG5CNTl6T3h6ODh5ZThsZ2tXZ0JXZ2FNNXVaRzMwVjQ5clJxZS1FUXhnNVFEemRZM3N2UTFVN1BrS3h1c1hIczJUTGtPaDhzcDExYmhUdnlhYzEwUGtQU3MyMHZSM3NIRHU4a2tWcG5IZlZFNTJ1MmFKMkRITEZzSjlYNmtqbldhcml0emhUTzI5SHBzOGJWeWF1cmRFOA?oc=5",
+          "source": "The Newtown Bee",
+          "published_at": "2026-10-30T11:00:41+00:00"
+        },
+        {
+          "title": "Newtown 2026 Voter Guide: Candidates, Polling Places, Early Voting",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXlhb1pxYm9iVE9aRzZsMVlwTG5JSVJFSWhzbVJQWkFXd3JhcE1Ibk1rel9Ja0dEMld2UmxnemRBTmxyTnA4c1lyZG5HamY5NFdrMDdhc3pNY1FLOWRoYWUxSnM4YXdRZS1QWElFTkZwaFZseFVtNDJYVXg0VWlnYjhQeThPTW1yd1VOSFhRZEd2bzJ4VkplRG5rdVZGU1lWY2Fn?oc=5",
+          "source": "Patch",
+          "published_at": "2026-10-15T07:00:00+00:00"
+        },
+        {
+          "title": "Newtown police urge public to avoid High Bridge Road amid investigation Friday",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdV9abHUwOEN0NnpBU2k3eXRsRDZRWktiSUpCcVpxNHZLY2Vxa1J1bEtpWTVsVDJwbm94LWFfLVNRYUtDOTJIMmdpenl0NThXdXM4WV9iMHNoemo2NG4ySFhUcTNudDdnbUc5dUJoSkMwZ01lcDFUNk02OE9xRTBMYlp4RjNCTmxvZ2VOVkhsTVM5R2dieDhhZFo0RzdxZw?oc=5",
+          "source": "News-Times",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "title": "Newtown High School (CT) Boys Volleyball",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VHBTYVNTcVR1dzFfVUo3U2E3M3lDdjJGVWQ1V294cGt1ODVmOUZRXzZwNVZxbU9lbVh1MVJuLU9pMG1Rd3dKVjJEUTdocWRVU1F4S2lsMHJCcDA4Vzd3ekR2LWVHMm9uak5LTHNWQUFzaGhXQUdpQkotRQ?oc=5",
+          "source": "MaxPreps",
+          "published_at": "2026-10-21T07:00:00+00:00"
+        }
+      ]
     },
     "monroe": {
       "name": "Monroe",
       "feed": "https://news.google.com/rss/search?q=%22Monroe%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
-      "items": []
+      "items": [
+        {
+          "title": "SCSU Football Tops Monroe, 35-28, In Homecoming Win",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGxlSDBUVV9ERmxGdmtVTGxJc0JRdEsyQmJLWGFVT0JMdEJPLUdNR3pacy13dl8yOE9yRUhGdEEwMS1DN3VIaXlITG9KQ2MycEo2cExldEg3TzhhSTlGa2h6cmlvTjJzWXlucUZ2WlZYeF9qNnUzOG12WU5ZbG9XTm0zYy0xLWUtSHpzSVhSTm1zUmU4dXc?oc=5",
+          "source": "Southern Connecticut State University Athletics",
+          "published_at": "2026-10-10T07:00:00+00:00"
+        },
+        {
+          "title": "Archived - Statement from First Selectman Tesoro Regarding Proposed Development Near Trumbull-Monroe Town Line",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PZ0RtM3hDOHp6ZWlPd0RCZmo1ZEx0MmJXdjBYY1RfTE1WUXpNaW9JUjdEX2FCZG5fNkxwcWNkZXJiUExwdkFYcEpnRjJxZFFKemVXTGMwYWVNMVRJZFlTWGdLSDFQeUE?oc=5",
+          "source": "trumbull-ct.gov",
+          "published_at": "2026-10-09T07:00:00+00:00"
+        },
+        {
+          "title": "5 Things To Know In Monroe: Election Day At 4 Polling Places, Planning And Zoning, Facilities Panel And More",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFB1Vng4em1MUTRwVUNBNGRxUmw3RmhNVTMxRzVwOUp1dXdOaVI4M3pmN2xlMnVWU2dWUkl2cko0cFhOMEJFSTBfNW9JMnlDTVBGaFlFZzI2M0ZpelBrWndmajI1a3o3aUlDTzdJNnp6VkVXZVZEdEZzc0R4NW9EWWtXbjJDX2hoMzFOSnBhWDc1YWRyOEwyNDhYbVJ3dHpPQU9hTXBZNjJ3UTNuU2pOTk1VTUTSAeQBQVVfeXFMTURkaW5obFdKQ0U2eEJYOXhOMlpyRXl3ZTRpUVlJUWJxQ1I0OFF4a0FsaFhZaWtYTkdmSG9hSDNRM3djRlFRQTRwbWpKWnl3VEZBenByMEZITElsV1Nxd0hULXlSRDlRUzlDVnlqZG52aW1MMEhoWk0xdm5oMnFvbjc1RC1JeVd5Q0NoZl8yM25ZZHVudEFSYmpwOVJMb1VqdzJhc1VmbHg2eFpQYXA2RTMwVXJ2b3VVUmQ5Tnc3ZHFNS004UmJ3QjktTFhGdlJlbVJKY3d2ZE5YLWQ1M1FqcGRhUm5S?oc=5",
+          "source": "Patch",
+          "published_at": "2026-11-01T23:17:42+00:00"
+        },
+        {
+          "title": "Monroe police respond to fatality on Pine Tree Road",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSTlqQm41YUtIcG9DZjU4MHFMblNMekJva2NsaHVVWEphS2F3WjYzUDk3d3lnOXNhNmo2dzBvLU5xakc3RFk1emt1d0dXWXJZTVM3SERKZnhEZUlrVERpdWZWWl9QOW9wMFFtMjJ0Skg5MWI3ZFpmYlRCSzRYVDRRTjFHOA?oc=5",
+          "source": "The Monroe Sun",
+          "published_at": "2026-10-16T07:00:00+00:00"
+        }
+      ]
     },
     "brookfield": {
       "name": "Brookfield",
       "feed": "https://news.google.com/rss/search?q=%22Brookfield%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
-      "items": []
+      "items": [
+        {
+          "title": "CT trio buys Candlewood Lake’s only public waterfront restaurant",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV2JHeTlGNTIyVFRfaWZMcXBtRDZQeGVlYng0OUlhbzhWWC1KRWJDLWVfZERTeEZGX25Zdm1FbEhUZDhQNUNWX1MtZU9JSTZfOWVxS2VnWTd4RkZSN0FSbFNmTV96cFVoNno5Zks3blJFMGhjQ2FCaXM2QTJjeWI0S1ROZG1GODZUQmpveldYcHFCTmNjRUNwWnNTdTA?oc=5",
+          "source": "News-Times",
+          "published_at": "2026-10-07T07:00:00+00:00"
+        },
+        {
+          "title": "Down The Hatch's New Owners Reveal When Brookfield Favorite Could Reopen",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUhLWU5faHF5TkszOVFFZkpNX0tvb3I5cFNDWXFjLUljc0dBUjNWclB3MEVaWUZKRVVvWHI1NkZ0Wk5wUENRQmlLVU5DMGdiUW5nMnZPcGRqWmYzTEVrdHdCYmZzZXdtY1ZFeXNtTVQ0ZE9uVUhNcUN2T0tXNThwa2RxVmdualFtODhiQnpPY2tRRW5xcHhLTG9Ub2lEb2dnS1dqY1c1RlFWTzFI?oc=5",
+          "source": "Patch",
+          "published_at": "2026-10-08T07:00:00+00:00"
+        },
+        {
+          "title": "Brookfield High School (CT) Volleyball",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QWURYVHBLUUlfUkkzSGRPTFVDZEJtRlZBX0NsTHZ0TUxPbXRwWE50V28wekllc1A1aXpFb0ltOHByenE2WWJVNFRMazA0YjR0b1VDVmt0U2xfUnNPU2cxM2h0eVVQdVpmekFySXhuTUFiWHdSakVfaQ?oc=5",
+          "source": "MaxPreps",
+          "published_at": "2026-10-29T07:00:00+00:00"
+        },
+        {
+          "title": "James McLaughlin Obituary (2026) - Brookfield, CT - Republican American",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnRqejFfUjJNUE1XdnlNZHBoTndaOElCUUx2dWlvVl9lYWh2c1RvZW0tZ2tNUmVGUmJNbjRNWGk0OUx4alRpM21vOVZUMGlGcVRZZmoydFhYWl91UGllckZsTUk5YlRFVmJrN2p0YmZFYlZXXzBCVGhzdFhlcGNzRUUwa2hweFZHUnlqeHMwWQ?oc=5",
+          "source": "Legacy | Obituary",
+          "published_at": "2026-10-18T07:00:00+00:00"
+        }
+      ]
     },
     "southbury": {
       "name": "Southbury",
       "feed": "https://news.google.com/rss/search?q=%22Southbury%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
-      "items": []
+      "items": [
+        {
+          "title": "Southbury boil water advisory lifted",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemxoNEZjcU5ER1EtWGlxTHJraldMNEVtTjJVY19XekVZdlVERVctVXpHLVUzS2NpVWVwUWpuYnpBWmNiUzA5S3hPVE5VN1VJanVabDd0VUlyR19fOUZTZ09ZaXk5Y2ZqSW1RYnUyOVNENU9UU1Zqa1RJaHVwN0d2dFdwdHVSLVJqOUtyMGNPOGhjRW81MDNqVjZsYnZvNTNSSHZ5UklUNUVYOWxBMmfSAbMBQVVfeXFMUHFraXF0ODNtNEt2b1BRYktZazdfRW16WkxOZExDR19lMnFfRUlPQ3BMNjFuVkdOSTNMYVBoOHdjWG12WUV4SkxiRjF6c1VVNlRvSVlfTWJReDhhWVBDUGpMZnBYUVVqQlI2dUswWE1xUElJMndjTU84ZlZ0YkNFVEtxSzFlSmhKbmpkOFYwN0RDbzc1QWFHZ3B2TVpKLWVKbVczUlRTSEk5RU5hUHpxZUJlUTg?oc=5",
+          "source": "WTNH.com",
+          "published_at": "2026-10-09T07:00:00+00:00"
+        },
+        {
+          "title": "New Southbury Nature Preserve Opening With Trails, Wildlife Viewing Area",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJ3LVV6enhSUnpod2F0cWVOSTZzZkY1QmNheGtVLXNlRk5UaFJoLTVWZW51T0lTMzE2cGM4SzB4T29HZjRseWdYcEpDVDNRWS12VThmQ3lGZlJSQTZVNjVReS1ZNHdiM2NQU3VuREp3WVF1VTBlajJhZmJPWXJId3M2YzI1TTI4bE5FR2pZX2FnelRaOE1xQ2swZ2J4dHBlZEZsaERkVWtUUQ?oc=5",
+          "source": "Patch",
+          "published_at": "2026-10-09T07:00:00+00:00"
+        },
+        {
+          "title": "Person dies after medical incident at Southbury hotel, police say",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2F6RUdyUVBVZXJqeUZXMVk0Z1czWURXZlRZbzYyR3hrVzAxTEV4Y1JKNVRoemg0Q0VQS1lNcHRFV2tZdy00Mkg4T3hReGRUNkE5R1RFTGowQkxuMXUzTHE1SjRheDRycUtLSmRiSDhiRG5tMTBtbWFtRTY1OWl2ZE02OW9sS1pSWmpIc05sZ0hKSmFlcjF6Tkxn0gGuAUFVX3lxTE9yb1ljcWRvQjhBdnVua1MtamV0X1FXYzdFTXVDdHA0UXpJbVFvS1hvSWM5eTVzV2RWOTlnVGRBZ1diallWTk5BaUlvY2RLeHNlU09zd1JNT1ZOTks0SHIweC1CZUNLeUVMUDN3TnFtdU5ibTBZRDVZT0pOOTM2V2hMQmhEUU1ubzd1empvVjFkRG5fY3p2Mmx0bmpxenRxWHZZOGpaRGRibE8xMWVEZw?oc=5",
+          "source": "WFSB",
+          "published_at": "2026-11-02T17:56:00+00:00"
+        },
+        {
+          "title": "Sherry Rancourt Obituary (1950 - 2026) - Southbury, CT - WFSB",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGZqQ3Z3eGpaWGdnS0x4RlNhQVV1NTUwRWFXVW5VVUNxLXVKZ19fY1pvSHNlaDd4QnRLaWVrRHhIT3B5VEUtV1VvaDc4Yy1QbDZuYThnRWx4Q2NkX3Vlb29MNklNTkRkcnpiTzEwTlhrakVsdDQxNTFHbmlkMU9NR1dSanJJaDdaY0hj?oc=5",
+          "source": "Legacy | Obituary",
+          "published_at": "2026-10-11T07:00:00+00:00"
+        }
+      ]
     }
   }
 }
