@@ -1,0 +1,25 @@
+{
+  "updated_at": null,
+  "towns": {
+    "newtown": {
+      "name": "Newtown",
+      "feed": "https://news.google.com/rss/search?q=%22Newtown%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "items": []
+    },
+    "monroe": {
+      "name": "Monroe",
+      "feed": "https://news.google.com/rss/search?q=%22Monroe%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "items": []
+    },
+    "brookfield": {
+      "name": "Brookfield",
+      "feed": "https://news.google.com/rss/search?q=%22Brookfield%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "items": []
+    },
+    "southbury": {
+      "name": "Southbury",
+      "feed": "https://news.google.com/rss/search?q=%22Southbury%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "items": []
+    }
+  }
+}
