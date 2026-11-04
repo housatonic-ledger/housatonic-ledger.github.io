@@ -156,3 +156,13 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .image-credits{border-top:1px solid var(--border);padding-top:17px;font:11px/1.7 var(--sans);color:#7b8689;margin-top:28px}
 @media(max-width:800px){.story-card-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.visual-dispatch{grid-template-columns:1fr}.side .teaser{grid-template-columns:minmax(0,1fr) 86px}.side .teaser img{width:86px;height:75px}.about-landscape img{aspect-ratio:16/9}}
 @media(max-width:550px){.issue-bar{font-size:9px;margin-bottom:25px}.story-card-grid{grid-template-columns:1fr;gap:25px}.story-card img{aspect-ratio:16/9}.section-heading h2{font-size:25px}.visual-dispatch{margin-top:30px;padding:18px}.editorial-note{display:block}.editorial-note a{display:inline-block;margin-top:13px}.about-brief-grid{grid-template-columns:1fr;gap:9px}.side .teaser a{font-size:17px}}
+
+/* Small uncatalogued literary enclosure inside the regional archive page. */
+.archived-leaf{margin:42px 0 30px;padding:21px 0 17px;border-top:1px solid #adb3ac;border-bottom:1px solid #c5c8c0;background:transparent;max-width:690px}
+.archived-leaf-head{display:flex;flex-wrap:wrap;gap:8px 22px;justify-content:space-between;font:700 10px/1.5 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#788079;margin-bottom:18px}
+.archived-leaf-context{font:14px/1.7 var(--serif)!important;color:#596567!important;margin:0 0 21px!important}
+.local-feature .prose .archived-verse{margin:0 0 18px!important;padding:5px 0 5px 22px;border-left:2px solid #a29b8b;font:17px/1.85 Georgia,var(--serif);letter-spacing:.006em;color:#233b44}
+.archived-verse span{display:block}
+.archived-leaf-source{font:11px/1.6 var(--sans)!important;color:#626f70!important;margin:0 0 11px!important}
+.archived-leaf-note{font:italic 12px/1.6 var(--serif)!important;color:#7e8381!important;margin:0!important}
+@media(max-width:650px){.local-feature .prose .archived-verse{font-size:14px;line-height:1.75;padding-left:12px}.archived-leaf-head{font-size:9px;gap:5px}}
