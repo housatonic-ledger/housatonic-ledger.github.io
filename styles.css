@@ -193,23 +193,24 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .town-wire-status{margin:18px 0 0}
 @media(max-width:700px){.town-wire-grid{grid-template-columns:1fr;gap:17px}.town-wire{margin-top:30px}.town-wire .section-heading{display:block}.town-wire-label{display:block;margin-top:10px}.town-wire .section-heading h2{font-size:27px}.town-wire-heading h3{font-size:22px}.issue-bar .town-links{gap:5px;flex-basis:100%}}
 
-/* Photographic archive: JS-free, touch-friendly image enlargement. */
+/* Eddie Howard archive: iOS-safe, no image links or JavaScript required. */
+.archive-photo-state{position:absolute;width:1px;height:1px;margin:0;padding:0;opacity:0;overflow:hidden;pointer-events:none}
 .archive-record{margin:31px 0 34px;padding:24px 0 11px;border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
 .archive-record-label{font:700 10px/1.6 var(--sans);text-transform:uppercase;letter-spacing:.13em;color:var(--rust);margin-bottom:8px}
 .local-feature .prose .archive-record h2{font:700 28px/1.24 var(--serif);letter-spacing:-.02em;margin:7px 0 15px;color:var(--navy)}
 .local-feature .prose .archive-record p{font:16px/1.75 var(--serif);margin:0 0 17px;color:#465759}
 .archive-record-photo{margin:18px 0 19px;max-width:660px}
-.archive-photo-trigger{display:block;width:100%;cursor:zoom-in;text-align:left;-webkit-touch-callout:none;touch-action:manipulation;-webkit-tap-highlight-color:transparent}
-.archive-photo-trigger:focus-visible{outline:3px solid var(--rust);outline-offset:5px}
+.archive-photo-trigger{display:block;width:100%;cursor:zoom-in;text-align:left;-webkit-touch-callout:none;touch-action:manipulation;-webkit-tap-highlight-color:transparent;-webkit-user-select:none;user-select:none}
+.archive-photo-trigger:focus-visible,.archive-photo-state:focus-visible ~ .archive-record .archive-photo-trigger{outline:3px solid var(--rust);outline-offset:5px}
 .archive-photo-trigger img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:contain;background:#ddd4c6;filter:sepia(.05);border:1px solid #d4c9b9;pointer-events:none;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
 .local-feature .archive-record-photo figcaption{margin:8px 0 0;font:11px/1.6 var(--sans);color:#7d827e}
 .archive-record-photo figcaption span{white-space:nowrap;text-decoration:underline;text-underline-offset:3px}
 .archive-photo-dialog{position:fixed;inset:0;z-index:9999;box-sizing:border-box;padding:16px;display:none;align-items:center;justify-content:center;background:rgba(13,16,17,.91)}
-.archive-photo-dialog:target{display:flex}
+.archive-photo-state:checked ~ .archive-photo-dialog{display:flex}
 .archive-photo-dialog-panel{box-sizing:border-box;max-width:min(94vw,1080px);width:100%;max-height:calc(100vh - 32px);max-height:calc(100dvh - 32px);overflow:auto;border:1px solid #9a8b79;background:#edeae0;color:#2b3434;padding:14px;box-shadow:0 14px 70px #0008}
 .archive-photo-dialog-heading{position:sticky;top:-14px;z-index:1;background:#edeae0;display:flex;align-items:center;justify-content:space-between;gap:15px;margin:0 0 12px;padding:8px 0;font:700 10px/1.5 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:#4c5e5e}
-.archive-photo-dialog-heading a{display:inline-block;background:#263f47;color:white;border:0;padding:10px 13px;text-decoration:none;cursor:pointer;font:700 11px var(--sans);letter-spacing:.04em;white-space:nowrap}
-.archive-photo-dialog-heading a:focus-visible{outline:3px solid var(--rust);outline-offset:2px}
-.archive-photo-dialog-panel>img{display:block;max-width:100%;width:100%;height:auto;max-height:calc(100vh - 135px);max-height:calc(100dvh - 135px);object-fit:contain;margin:auto}
+.archive-photo-close{display:inline-block;background:#263f47;color:white;border:0;padding:10px 13px;text-decoration:none;cursor:pointer;font:700 11px var(--sans);letter-spacing:.04em;white-space:nowrap;-webkit-touch-callout:none;touch-action:manipulation}
+.archive-photo-close:focus-visible{outline:3px solid var(--rust);outline-offset:2px}
+.archive-photo-dialog-panel>img{display:block;max-width:100%;width:100%;height:auto;max-height:calc(100vh - 135px);max-height:calc(100dvh - 135px);object-fit:contain;margin:auto;-webkit-touch-callout:none}
 .archive-photo-dialog .archive-dialog-note{font:10px/1.4 var(--sans);color:#69706d;margin:10px 1px 0}
 @media(max-width:600px){.archive-record{margin:25px 0;padding-top:19px}.local-feature .prose .archive-record h2{font-size:24px}.archive-photo-dialog{padding:8px}.archive-photo-dialog-panel{max-width:100%;max-height:calc(100dvh - 16px);padding:9px}.archive-photo-dialog-heading{top:-9px;margin-bottom:8px}.archive-photo-dialog-panel>img{max-height:calc(100dvh - 112px)}}
