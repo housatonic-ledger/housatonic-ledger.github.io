@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T13:24:11.524997+00:00",
+  "updated_at": "2026-11-04T19:09:32.075564+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,18 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Scott survives a blue wave to win a 4th term leading the 112th District",
+          "url": "https://themonroesun.com/scott-survives-a-blue-wave-to-win-a-4th-term-leading-the-112th-district/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-04T16:26:01+00:00"
+        },
+        {
+          "title": "Reid is the first Democrat to win the 21st Senatorial District in 62 years",
+          "url": "https://themonroesun.com/reid-is-the-first-democrat-to-win-the-21st-senatorial-district-in-62-years/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-04T16:04:54+00:00"
+        },
+        {
           "title": "Connecticut’s 21st Senatorial race goes into overtime",
           "url": "https://themonroesun.com/connecticuts-21st-senatorial-race-goes-into-overtime/",
           "source": "The Monroe Sun",
@@ -46,18 +58,6 @@
           "url": "https://themonroesun.com/gadkar-wilcox-declares-victory-in-the-22nd-senatorial-district-race/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-04T05:05:02+00:00"
-        },
-        {
-          "title": "Top seed Masuk volleyball wins playoff opener",
-          "url": "https://themonroesun.com/top-seed-masuk-volleyball-wins-playoff-opener/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-03T22:11:22+00:00"
-        },
-        {
-          "title": "Cookies: An issue most voters agree on",
-          "url": "https://themonroesun.com/cookies-an-issue-most-voters-agree-on/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-03T21:57:45+00:00"
         }
       ]
     },
@@ -78,16 +78,16 @@
           "published_at": "2026-10-08T07:00:00+00:00"
         },
         {
-          "title": "Injuries reported after crash involving school bus in Brookfield",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV01wZW94dGJZa2NMejFkQXIxZHpZa3lNUUZQR25wODNHR3ZsaG0ySG1hcXRGcE9CRUtGN2lHamM4Q2hhRWI3NDgwTThoeDhMX3VQSGtrclQ4RXJLT2lRVkgyMWRVOFBQSm1jLXBpYlFlU19pbFhTb2t1TmFYME92dFczUlpEZjlkaHBCLWJRcU5kOWd1bndhd1930gGuAUFVX3lxTFBsMHdzYUhEOE9JVTFNX0dqdzRLdFl2MDQwblZwSVViMGVMVHFRZjQ1TG5la0F4UlFuN3prWHAyY0VSVXdUNXNjcWFEcGRGN2NsazQ5X1R3OVhaVks5MVhYUXA4dHAtM3FRTGhpUXVHZkNDcC0yMkZqX202MUdHVmRPUnBiUGNzOVlERU1MYUxMM3dHSDZQdGlCMDhlNUdsV2wtNUNPR2RZeTBBLUlxQQ?oc=5",
-          "source": "WFSB",
-          "published_at": "2026-10-26T07:00:00+00:00"
+          "title": "Blue wave crashes over CT General Assembly",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uSlR2Uk00ZnR1alhxSklLaGdmQS1rakt1bzBTODdLUHlSS3BLRkhxWmtSQ3ByQzlxOF82dnd4bHAtNVFuTTNmek9KOUFwWHZlV2lac1ZkX0pRQ2MtVkNYaVdVSEIzYWRfV0RFdXdZTllYZG1leFkxeWdCUDhLUQ?oc=5",
+          "source": "CT Mirror",
+          "published_at": "2026-11-04T05:13:15+00:00"
         },
         {
-          "title": "Brookfield students suffer minor injuries after school bus rear-ended",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1A4MUd6cXhhcmxva2poYnh1cHBjN0VCRWRuRnJZZzZaeWMtOW1aeG9YTGN0X0ltejdpWEh0MXowUjc4eUZ1b05DZEgwc1pkQVdEaWhDbS0tTi1CUU1WYngxOTdUQ3VSM3Z3VjlkQ1BJQXhTZTViRjNZSWJYek9uSzRuSFZjbmNGMXhIaXkyQm00TWRKZWRCeUdvbWoyYUNtR21KZVVscTNueU5SMWlEcGtoRDZpNXFMdFRkckhvS3pCWVdvRlgzWNIBzgFBVV95cUxNWnF0eW00SXZkRWEzNi1NQ1NjZVRGVnljeVRFQ3JoSkFzU2YtTmNDRkJnUXpQU1FnT3dwVWN3NTJwRHJCdUtEN2pudGxkSE5qdmxzUGhwdC0tVFJzSnNGWnRVcmZkMUM0QnVSdVprQl8yVXlTMXJCemNFQmxkbmV4T3Z4ZHQ0SVBuUTByYng5UWk2eXlJOW1QdkhudzVKTlFMdGxTR0JTSW9hcHR1VDA0Rk91M09FV2hiOTRkeTFCc0xqVFBJZy0wbFpWbG4zQQ?oc=5",
-          "source": "WTNH.com",
-          "published_at": "2026-10-26T07:00:00+00:00"
+          "title": "James McLaughlin Obituary (2026) - Brookfield, CT - Republican American",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnRqejFfUjJNUE1XdnlNZHBoTndaOElCUUx2dWlvVl9lYWh2c1RvZW0tZ2tNUmVGUmJNbjRNWGk0OUx4alRpM21vOVZUMGlGcVRZZmoydFhYWl91UGllckZsTUk5YlRFVmJrN2p0YmZFYlZXXzBCVGhzdFhlcGNzRUUwa2hweFZHUnlqeHMwWQ?oc=5",
+          "source": "Legacy | Obituary",
+          "published_at": "2026-10-18T07:00:00+00:00"
         }
       ]
     },
@@ -95,6 +95,12 @@
       "name": "Southbury",
       "feed": "https://southburyrecord.com/feed/",
       "items": [
+        {
+          "title": "Voices Ends Print Publication, Suspends News Coverage",
+          "url": "https://southburyrecord.com/2026/11/04/voices-ends-print-publication-suspends-news-coverage/",
+          "source": "The Southbury Record",
+          "published_at": "2026-11-04T18:01:59+00:00"
+        },
         {
           "title": "Rodgers to Seek Southbury First Selectman Seat",
           "url": "https://southburyrecord.com/2026/11/04/rodgers-to-seek-southbury-first-selectman-seat/",
@@ -112,12 +118,6 @@
           "url": "https://southburyrecord.com/2026/11/02/person-dies-following-medical-emergency-at-southbury-hotel/",
           "source": "The Southbury Record",
           "published_at": "2026-11-02T19:34:40+00:00"
-        },
-        {
-          "title": "Lights Out Performance Lifts Pomperaug Girls’ Soccer to SWC Final",
-          "url": "https://southburyrecord.com/2026/10/31/lights-out-performance-lifts-pomperaug-girls-soccer-to-swc-final/",
-          "source": "The Southbury Record",
-          "published_at": "2026-10-31T20:09:52+00:00"
         }
       ]
     }
