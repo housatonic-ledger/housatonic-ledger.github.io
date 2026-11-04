@@ -20,6 +20,11 @@ TOWNS = {
     "brookfield": "Brookfield",
     "southbury": "Southbury",
 }
+# Prefer local publishers' own RSS instead of general search when available.
+PREFERRED = {
+    "monroe": ("The Monroe Sun", "https://themonroesun.com/feed/"),
+    "southbury": ("The Southbury Record", "https://southburyrecord.com/feed/"),
+}
 MAX_AGE = timedelta(days=45)
 
 
@@ -28,8 +33,8 @@ def feed_url(name):
     return f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US%3Aen"
 
 
-def fetch_town(name):
-    url = feed_url(name)
+def fetch_town(name, url=None, publisher_fallback=None):
+    url = url or feed_url(name)
     request = Request(url, headers={
         "User-Agent": "Mozilla/5.0 (compatible; HousatonicLedgerRSS/1.0)"
     })
@@ -42,7 +47,7 @@ def fetch_town(name):
     for entry in root.findall("./channel/item"):
         title = (entry.findtext("title") or "").strip()
         link = (entry.findtext("link") or "").strip()
-        publisher = (entry.findtext("source") or "").strip() or "External reporting"
+        publisher = (entry.findtext("source") or "").strip() or publisher_fallback or "External reporting"
         date_text = (entry.findtext("pubDate") or "").strip()
         if not title or urlsplit(link).scheme != "https" or link in seen:
             continue
@@ -84,8 +89,20 @@ def main():
     successful = 0
     for key, name in TOWNS.items():
         previous = old_towns.get(key, {}) if isinstance(old_towns, dict) else {}
+        preferred = PREFERRED.get(key)
+        active_feed = feed_url(name)
         try:
-            entries = fetch_town(name)
+            if preferred:
+                try:
+                    entries = fetch_town(name, preferred[1], preferred[0])
+                    if not entries:
+                        raise ValueError("Primary publisher feed has no recent headlines")
+                    active_feed = preferred[1]
+                except (OSError, ValueError, ET.ParseError) as exc:
+                    print(f"Primary RSS for {name} unavailable; using discovery feed: {exc}")
+                    entries = fetch_town(name)
+            else:
+                entries = fetch_town(name)
             successful += 1
         except (OSError, ValueError, ET.ParseError) as exc:
             print(f"Feed for {name} unavailable: {exc}")
@@ -98,7 +115,7 @@ def main():
             )][:4]
         items[key] = {
             "name": name,
-            "feed": feed_url(name),
+            "feed": active_feed,
             "items": entries,
         }
 
