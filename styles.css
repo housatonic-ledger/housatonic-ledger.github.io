@@ -156,3 +156,14 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .image-credits{border-top:1px solid var(--border);padding-top:17px;font:11px/1.7 var(--sans);color:#7b8689;margin-top:28px}
 @media(max-width:800px){.story-card-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.visual-dispatch{grid-template-columns:1fr}.side .teaser{grid-template-columns:minmax(0,1fr) 86px}.side .teaser img{width:86px;height:75px}.about-landscape img{aspect-ratio:16/9}}
 @media(max-width:550px){.issue-bar{font-size:9px;margin-bottom:25px}.story-card-grid{grid-template-columns:1fr;gap:25px}.story-card img{aspect-ratio:16/9}.section-heading h2{font-size:25px}.visual-dispatch{margin-top:30px;padding:18px}.editorial-note{display:block}.editorial-note a{display:inline-block;margin-top:13px}.about-brief-grid{grid-template-columns:1fr;gap:9px}.side .teaser a{font-size:17px}}
+
+
+/* A literary transcription in the ordinary archive story, not a featured clue. */
+.local-feature .prose .readable-content>p.archive-verse-lines{
+ font:italic 15px/1.62 Georgia,var(--serif)!important;
+ color:#616d6e!important;letter-spacing:0!important;
+ margin:5px 0 23px!important;padding:0 0 0 12px!important;
+ border:0!important;background:transparent!important
+}
+.archive-verse-lines span{display:block}
+@media(max-width:600px){.local-feature .prose .readable-content>p.archive-verse-lines{font-size:13px!important;line-height:1.6!important;padding-left:5px!important}}
