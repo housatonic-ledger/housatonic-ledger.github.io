@@ -1,4 +1,4 @@
-/* Photographic index decryption. The key is never stored in site source. */
+/* Supplementary photographic index. No access phrase or original photo URLs in page source. */
 (() => {
   "use strict";
   const form = document.getElementById("profile-collection-form");
@@ -8,63 +8,128 @@
   if (!form || !field || !status || !results) return;
 
   function decodeBase64(text) {
-    const raw = atob(text.replace(/\s+/g, ""));
-    const bytes = new Uint8Array(raw.length);
-    for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i);
-    return bytes;
+    const binary = atob(text.replace(/\s+/g, ""));
+    return Uint8Array.from(binary, character => character.charCodeAt(0));
   }
 
-  async function openCollection(password) {
-    if (!window.crypto || !window.crypto.subtle) {
-      throw new Error("Web Crypto unavailable");
-    }
-    const request = await fetch("/protected/collection.dat", {cache:"no-store"});
-    if (!request.ok) throw new Error("Collection file unavailable");
-    const encrypted = decodeBase64(await request.text());
-    if (encrypted.length < 29) throw new Error("Corrupt index");
-    const iv = encrypted.slice(0, 12);
-    const ciphertext = encrypted.slice(12);
-    const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(password));
+  async function decryptAsset(path, key) {
+    const response = await fetch(path, {cache:"no-store"});
+    if (!response.ok) throw new Error("Collection unavailable");
+    const bytes = decodeBase64(await response.text());
+    if (bytes.length < 29) throw new Error("Invalid archive data");
+    return crypto.subtle.decrypt(
+      {name:"AES-GCM",iv:bytes.slice(0,12)},
+      key,
+      bytes.slice(12)
+    );
+  }
+
+  async function openCollection(phrase) {
+    if (!window.crypto || !window.crypto.subtle) throw new Error("Web Crypto unavailable");
+    const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(phrase));
     const key = await crypto.subtle.importKey("raw", digest, {name:"AES-GCM"}, false, ["decrypt"]);
-    const plain = await crypto.subtle.decrypt({name:"AES-GCM",iv},key,ciphertext);
-    const family = URL.createObjectURL(new Blob([plain], {type:"image/webp"}));
-    return [
-      {title:"Unidentified family group", caption:"Family group portrait · Undated · Private collection",src:family},
-      {title:"Uncatalogued exterior",caption:"House photograph · Date and photographer not recorded",src:"/parkson-house.jpg"},
-      {title:"Foundation record",caption:"Reconstruction photograph · Reference 73-041",src:"https://parkson-archives.neocities.org/foundation-73-041.png"}
-    ];
+
+    const plain = await decryptAsset("/protected/photo-index.dat", key);
+    const manifest = JSON.parse(new TextDecoder().decode(plain));
+    if (!manifest || !Array.isArray(manifest.photos) || manifest.photos.length !== 9) {
+      throw new Error("Invalid index");
+    }
+    const photos = manifest.photos.filter(photo =>
+      photo && typeof photo.title === "string" &&
+      typeof photo.caption === "string" &&
+      typeof photo.src === "string" &&
+      /^https:\/\/d2ol7oe51mr4n9\.cloudfront\.net\//.test(photo.src)
+    );
+    if (photos.length !== 9) throw new Error("Invalid index");
+    // The earliest family scan was stored as encrypted image bytes, not an external link.
+    try {
+      const oldImage = await decryptAsset("/protected/collection.dat", key);
+      const objectUrl = URL.createObjectURL(new Blob([oldImage], {type:"image/webp"}));
+      photos.push({
+        title:"Unidentified family portrait",
+        caption:"Family collection · Undated scan",
+        src:objectUrl
+      });
+    } catch (_) {
+      // An earlier record may be missing or incompatible; other scans remain accessible.
+    }
+    return photos;
+  }
+
+  function makeElement(tag, className, textContent) {
+    const el = document.createElement(tag);
+    if (className) el.className = className;
+    if (textContent) el.textContent = textContent;
+    return el;
+  }
+
+  function createScan(photo, index) {
+    const id = "profile-scan-" + index;
+    const figure = makeElement("figure", "profile-collection-item");
+    const toggle = document.createElement("input");
+    toggle.type = "checkbox";
+    toggle.id = id;
+    toggle.className = "profile-scan-toggle";
+    toggle.setAttribute("aria-label", "Enlarge " + photo.title);
+
+    const trigger = makeElement("label", "profile-scan-trigger");
+    trigger.htmlFor = id;
+    trigger.tabIndex = 0;
+    trigger.setAttribute("role", "button");
+    trigger.setAttribute("aria-label", "View " + photo.title + " at full size");
+    const small = document.createElement("img");
+    small.src = photo.src;
+    small.alt = photo.title;
+    small.loading = "lazy";
+    small.decoding = "async";
+    small.draggable = false;
+    trigger.append(small);
+
+    const caption = makeElement("figcaption", null, photo.caption);
+    const overlay = makeElement("div", "profile-scan-overlay");
+    overlay.setAttribute("role", "dialog");
+    overlay.setAttribute("aria-modal", "true");
+    overlay.setAttribute("aria-label", photo.title);
+    const panel = makeElement("div", "profile-scan-panel");
+    const header = makeElement("div", "profile-scan-heading");
+    header.append(makeElement("span", null, "Photographic archive / Enlarged scan"));
+    const close = makeElement("label", "profile-scan-close", "Close ×");
+    close.htmlFor = id;
+    close.tabIndex = 0;
+    close.setAttribute("role", "button");
+    close.setAttribute("aria-label", "Close enlarged photograph");
+    header.append(close);
+
+    const large = document.createElement("img");
+    large.src = photo.src;
+    large.alt = photo.title;
+    large.loading = "lazy";
+    large.decoding = "async";
+    large.draggable = false;
+    panel.append(header, large, makeElement("p", "profile-scan-caption", photo.caption));
+    overlay.append(panel);
+
+    for (const label of [trigger, close]) {
+      label.addEventListener("keydown", event => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          toggle.checked = !toggle.checked;
+        }
+      });
+    }
+    figure.append(toggle, trigger, caption, overlay);
+    return figure;
   }
 
   function display(photos) {
-    results.replaceChildren();
-    photos.slice(0,8).forEach((photo) => {
-      if (!photo || !photo.title) return;
-      let url = null;
-      if (typeof photo.data === "string" && /^image\/(webp|jpeg|png)$/.test(photo.mime || "")) {
-        url = "data:" + photo.mime + ";base64," + photo.data;
-      } else if (typeof photo.src === "string" && (/^blob:https:\/\//.test(photo.src) || /^https:\/\//.test(photo.src) || /^\/(?!\/)/.test(photo.src))) {
-        url = photo.src;
-      }
-      if (!url) return;
-      const figure = document.createElement("figure");
-      figure.className = "profile-collection-item";
-      const picture = document.createElement("img");
-      picture.src = url;
-      picture.alt = String(photo.title);
-      picture.loading = "lazy";
-      picture.decoding = "async";
-      const label = document.createElement("figcaption");
-      label.textContent = String(photo.caption || photo.title);
-      figure.append(picture,label);
-      results.append(figure);
-    });
+    results.replaceChildren(...photos.map(createScan));
     results.hidden = false;
-    status.textContent = results.children.length + " photographic entries available.";
+    status.textContent = photos.length + " photographic records available.";
   }
 
-  form.addEventListener("submit", async (event) => {
+  form.addEventListener("submit", async event => {
     event.preventDefault();
-    const phrase = field.value.trim().toLowerCase().replace(/\s+/g,"");
+    const phrase = field.value.trim().toLowerCase().replace(/\s+/g, "");
     if (!phrase) return;
     const button = form.querySelector('button[type="submit"]');
     button.disabled = true;
@@ -75,7 +140,9 @@
       field.value = "";
       form.hidden = true;
     } catch (error) {
-      status.textContent = error.name === "OperationError" ? "No matching reference set was found." : "The supplementary archive is temporarily unavailable.";
+      status.textContent = error.name === "OperationError"
+        ? "No matching reference set was found."
+        : "The supplementary archive is temporarily unavailable.";
     } finally {
       button.disabled = false;
     }
