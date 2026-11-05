@@ -4,7 +4,7 @@ const trigger=document.getElementById("tape04-load");
 const status=document.getElementById("tape04-status");
 const audio=document.getElementById("tape04-player");
 if(!trigger||!status||!audio) return;
-const path="/media/parkson-72-10-12-tape04.mp3";
+const path="/media/Parkson_1972_reconstitution.mp3";
 trigger.addEventListener("click",async()=>{
   trigger.disabled=true;
   status.textContent="Retrieving digitized transfer…";
