@@ -27,9 +27,12 @@
     const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(password));
     const key = await crypto.subtle.importKey("raw", digest, {name:"AES-GCM"}, false, ["decrypt"]);
     const plain = await crypto.subtle.decrypt({name:"AES-GCM",iv},key,ciphertext);
-    const manifest = JSON.parse(new TextDecoder().decode(plain));
-    if (!manifest || !Array.isArray(manifest.photos)) throw new Error("Corrupt index");
-    return manifest.photos;
+    const family = URL.createObjectURL(new Blob([plain], {type:"image/webp"}));
+    return [
+      {title:"Unidentified family group", caption:"Family group portrait · Undated · Private collection",src:family},
+      {title:"Uncatalogued exterior",caption:"House photograph · Date and photographer not recorded",src:"/parkson-house.jpg"},
+      {title:"Foundation record",caption:"Reconstruction photograph · Reference 73-041",src:"https://parkson-archives.neocities.org/foundation-73-041.png"}
+    ];
   }
 
   function display(photos) {
@@ -39,7 +42,7 @@
       let url = null;
       if (typeof photo.data === "string" && /^image\/(webp|jpeg|png)$/.test(photo.mime || "")) {
         url = "data:" + photo.mime + ";base64," + photo.data;
-      } else if (typeof photo.src === "string" && (/^https:\/\//.test(photo.src) || /^\/(?!\/)/.test(photo.src))) {
+      } else if (typeof photo.src === "string" && (/^blob:https:\/\//.test(photo.src) || /^https:\/\//.test(photo.src) || /^\/(?!\/)/.test(photo.src))) {
         url = photo.src;
       }
       if (!url) return;
