@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-05T01:19:16.504091+00:00",
+  "updated_at": "2026-11-05T07:30:42.074545+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan"
+    },
+    {
+      "source": "NPR",
+      "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+    },
     {
       "source": "NPR",
       "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
       "url": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns"
     },
     {
-      "source": "NPR",
-      "title": "Elon Musk will face scrutiny from Democrats after midterms",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress"
-    },
-    {
-      "source": "NPR",
-      "title": "Democratic leaders reflect on midterm results and what's next for the party",
-      "url": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways"
+      "source": "BBC News",
+      "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Five reasons why Republicans lost so badly",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss"
+      "title": "'Hopefully things get done': Americans react to historic political shift",
+      "url": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
-      "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "How America voted in maps and charts",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
+      "title": "Interest rates expected to rise for first time in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [

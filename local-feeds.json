@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T01:19:16.566433+00:00",
+  "updated_at": "2026-11-05T07:30:42.121060+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Masuk Panthers compete at the Unified Sports Cornhole Tournament",
+          "url": "https://themonroesun.com/masuk-panthers-compete-at-the-unified-sports-cornhole-tournament/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-05T01:23:46+00:00"
+        },
+        {
           "title": "Jockey Hollow Unified Sports celebrates a successful soccer season",
           "url": "https://themonroesun.com/jockey-hollow-unified-sports-celebrates-a-successful-soccer-season/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/scott-survives-a-blue-wave-to-win-a-4th-term-leading-the-112th-district/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-04T16:26:01+00:00"
-        },
-        {
-          "title": "Reid is the first Democrat to win the 21st Senatorial District in 62 years",
-          "url": "https://themonroesun.com/reid-is-the-first-democrat-to-win-the-21st-senatorial-district-in-62-years/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-04T16:04:54+00:00"
         }
       ]
     },
