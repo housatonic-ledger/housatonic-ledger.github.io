@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-11-04T19:09:32.011706+00:00",
+  "updated_at": "2026-11-05T01:19:16.504091+00:00",
   "items": [
     {
       "source": "NPR",
-      "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
-      "url": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats"
+      "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns"
     },
     {
       "source": "NPR",
-      "title": "Mike Johnson will step aside as top House Republican next Congress",
-      "url": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker"
+      "title": "Elon Musk will face scrutiny from Democrats after midterms",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress"
     },
     {
       "source": "NPR",
-      "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
-      "url": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations"
+      "title": "Democratic leaders reflect on midterm results and what's next for the party",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways"
+    },
+    {
+      "source": "BBC News",
+      "title": "Five reasons why Republicans lost so badly",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
@@ -23,13 +28,8 @@
     },
     {
       "source": "BBC News",
-      "title": "Everything you need to know from the US midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Democrats won Congress in a blue wave. Now comes the hard part.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
+      "title": "How America voted in maps and charts",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
