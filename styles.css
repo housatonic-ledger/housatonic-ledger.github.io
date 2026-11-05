@@ -248,3 +248,18 @@ h1{font:700 clamp(32px,4.7vw,58px)/1.14 var(--serif);letter-spacing:-.05em}h2{fo
 .profile-collection-item .profile-scan-panel>img{display:block;width:100%;max-width:100%;max-height:calc(100dvh - 145px);height:auto;aspect-ratio:auto;object-fit:contain;margin:auto;border:0;background:transparent}
 .profile-collection-item .profile-scan-caption{font:11px/1.5 var(--sans);color:#6a7674;margin:9px 0 0}
 @media(max-width:620px){.profile-scan-overlay{padding:6px}.profile-scan-panel{max-height:calc(100dvh - 12px);max-width:100%;padding:8px}.profile-scan-heading{top:-8px;font-size:9px}.profile-collection-item .profile-scan-panel>img{max-height:calc(100dvh - 125px)}}
+
+/* Historical record audio: deliberately subdued archival presentation. */
+.local-feature .prose .archive-audio-record{margin:31px 0 30px;padding:20px 0;border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
+.archive-audio-record .archive-record-label{text-transform:uppercase;font:700 10px/1.6 var(--sans);letter-spacing:.09em;color:#657676}
+.local-feature .prose .archive-audio-record h2{font:700 25px/1.4 var(--serif);color:var(--navy);margin:10px 0}
+.local-feature .prose .archive-audio-meta{font:11px/1.65 var(--sans);color:#637176}
+.archive-audio-open{background:transparent;border:1px solid #9facab;color:#223942;padding:11px 15px;font:700 11px/1.5 var(--sans);letter-spacing:.03em;cursor:pointer;min-height:44px}
+.archive-audio-open:hover,.archive-audio-open:focus-visible{background:#eaede9}
+.archive-audio-open[disabled]{cursor:wait;opacity:.65}
+.local-feature .prose .archive-audio-status{font:11px/1.5 var(--sans);color:#6d7a79;margin:11px 0 5px}
+.archive-audio-record audio{display:block;width:100%;max-width:520px;margin:15px 0}
+.archive-audio-record audio[hidden]{display:none}
+.archive-record-back{margin:26px 0}
+.archive-quiet-link{color:inherit;text-decoration:underline;text-decoration-style:dotted;text-decoration-color:#aab1ae;text-underline-offset:3px}
+.archive-quiet-link:hover{text-decoration-style:solid;color:var(--rust)}
