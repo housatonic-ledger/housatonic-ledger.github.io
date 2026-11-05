@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-11-05T13:23:51.439715+00:00",
+  "updated_at": "2026-11-05T19:07:18.851288+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
       "feed": "https://news.google.com/rss/search?q=%22Newtown%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
       "items": [
-        {
-          "title": "Midterm Elections Underway. Here Are Your Choices And Voting Options.",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFhPekw0eGRKaG5CNTl6T3h6ODh5ZThsZ2tXZ0JXZ2FNNXVaRzMwVjQ5clJxZS1FUXhnNVFEemRZM3N2UTFVN1BrS3h1c1hIczJUTGtPaDhzcDExYmhUdnlhYzEwUGtQU3MyMHZSM3NIRHU4a2tWcG5IZlZFNTJ1MmFKMkRITEZzSjlYNmtqbldhcml0emhUTzI5SHBzOGJWeWF1cmRFOA?oc=5",
-          "source": "The Newtown Bee",
-          "published_at": "2026-10-30T11:00:41+00:00"
-        },
         {
           "title": "Newtown 2026 Voter Guide: Candidates, Polling Places, Early Voting",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXlhb1pxYm9iVE9aRzZsMVlwTG5JSVJFSWhzbVJQWkFXd3JhcE1Ibk1rel9Ja0dEMld2UmxnemRBTmxyTnA4c1lyZG5HamY5NFdrMDdhc3pNY1FLOWRoYWUxSnM4YXdRZS1QWElFTkZwaFZseFVtNDJYVXg0VWlnYjhQeThPTW1yd1VOSFhRZEd2bzJ4VkplRG5rdVZGU1lWY2Fn?oc=5",
@@ -24,10 +18,16 @@
           "published_at": "2026-10-23T07:00:00+00:00"
         },
         {
-          "title": "Newtown High School (CT) Boys Volleyball",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VHBTYVNTcVR1dzFfVUo3U2E3M3lDdjJGVWQ1V294cGt1ODVmOUZRXzZwNVZxbU9lbVh1MVJuLU9pMG1Rd3dKVjJEUTdocWRVU1F4S2lsMHJCcDA4Vzd3ekR2LWVHMm9uak5LTHNWQUFzaGhXQUdpQkotRQ?oc=5",
-          "source": "MaxPreps",
-          "published_at": "2026-10-21T07:00:00+00:00"
+          "title": "State senate candidate cited for not following construction pattern, Newtown police say",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1FlMTBGMGc0V3VLQjUtS2dZSzFIWHlSMEY0X2pLcE8yWUxDa2VidGZ3bHpNUGwzSjRVUTU2dnk2T3lhbEFvWmluaHlGRXA1TjBjdC1KcW53Rm40TnVVOTM0OUdENjRyLTZaZmJna0NkUXUwOGhkVFIzOU5BTGg5YlAyT2sxdjNrektEUm1NZWZKUFRFZEdLWUV1dHBqUm96cTJHVHp1Vks2YVV3UXh6bUFGTl9OUQ?oc=5",
+          "source": "WFSB",
+          "published_at": "2026-11-02T14:53:00+00:00"
+        },
+        {
+          "title": "CT Book Fair Newtown Author Festival One Week Out",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObl9MMGZuRlNDZ0E3b1AxLWNnLU9Nc2xKZ0lVQ19JRHU3OUpkeG5oYW1yM01UakdxX0hDQ1d5SjhsQzhvd0h0WGFrdmpIWmloajlCWExWeVdvUGRySlhZU3lrLUk3d25JMDFjUjQwU2k0bmcyVFpMdE5LUGpBSWcyLVBFMFZ5YTVOX0l1VHI3WQ?oc=5",
+          "source": "The Newtown Bee",
+          "published_at": "2026-10-10T07:00:00+00:00"
         }
       ]
     },
@@ -35,6 +35,18 @@
       "name": "Monroe",
       "feed": "https://themonroesun.com/feed/",
       "items": [
+        {
+          "title": "Masuk volleyball team to challenge for first SWC Championship",
+          "url": "https://themonroesun.com/masuk-volleyball-team-to-challenge-for-first-swc-championship/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-05T16:48:29+00:00"
+        },
+        {
+          "title": "Masuk’s girls and boys soccer teams set for states",
+          "url": "https://themonroesun.com/masuks-girls-and-boys-soccer-teams-set-for-states/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-05T16:35:09+00:00"
+        },
         {
           "title": "Masuk Panthers compete at the Unified Sports Cornhole Tournament",
           "url": "https://themonroesun.com/masuk-panthers-compete-at-the-unified-sports-cornhole-tournament/",
@@ -46,18 +58,6 @@
           "url": "https://themonroesun.com/jockey-hollow-unified-sports-celebrates-a-successful-soccer-season/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-05T01:13:41+00:00"
-        },
-        {
-          "title": "Masuk swim and dive heads into postseason",
-          "url": "https://themonroesun.com/masuk-swim-and-dive-heads-into-postseason/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-05T00:52:31+00:00"
-        },
-        {
-          "title": "Scott survives a blue wave to win a 4th term leading the 112th District",
-          "url": "https://themonroesun.com/scott-survives-a-blue-wave-to-win-a-4th-term-leading-the-112th-district/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-04T16:26:01+00:00"
         }
       ]
     },
@@ -84,10 +84,10 @@
           "published_at": "2026-11-04T05:13:15+00:00"
         },
         {
-          "title": "James McLaughlin Obituary (2026) - Brookfield, CT - Republican American",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnRqejFfUjJNUE1XdnlNZHBoTndaOElCUUx2dWlvVl9lYWh2c1RvZW0tZ2tNUmVGUmJNbjRNWGk0OUx4alRpM21vOVZUMGlGcVRZZmoydFhYWl91UGllckZsTUk5YlRFVmJrN2p0YmZFYlZXXzBCVGhzdFhlcGNzRUUwa2hweFZHUnlqeHMwWQ?oc=5",
-          "source": "Legacy | Obituary",
-          "published_at": "2026-10-18T07:00:00+00:00"
+          "title": "Brookfield Girls Basketball Schedule",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkdfdzVSbFRiLVByREJzVVFOOHBVQXp1T21RMk1ocHVxNEFiMFpxdlk1WXVxNkZPUVVTRk8wWnFBTl9SSms2S0NLekNLYUdtYkJ3dERFOEhMX2FYdEZnTEN2UWFNYU5LMHczMTlqNDFlbllfNnlDTG9WTnBxdk02NGFxblJGbXdmbGxpVw?oc=5",
+          "source": "MaxPreps",
+          "published_at": "2026-10-26T07:00:00+00:00"
         }
       ]
     },
