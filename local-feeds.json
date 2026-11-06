@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T13:18:18.135501+00:00",
+  "updated_at": "2026-11-06T19:03:21.892791+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Masuk girls volleyball captures first SWC title in school history!",
+          "url": "https://themonroesun.com/masuk-girls-volleyball-captures-first-swc-title-in-school-history/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-06T18:01:07+00:00"
+        },
+        {
           "title": "Coach Ed Butler impacted the lives of thousands",
           "url": "https://themonroesun.com/coach-ed-butler-impacted-the-lives-of-thousands/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/masuk-volleyball-team-to-challenge-for-first-swc-championship/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-05T16:48:29+00:00"
-        },
-        {
-          "title": "Masuk’s girls and boys soccer teams set for states",
-          "url": "https://themonroesun.com/masuks-girls-and-boys-soccer-teams-set-for-states/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-05T16:35:09+00:00"
         }
       ]
     },
@@ -96,6 +96,12 @@
       "feed": "https://southburyrecord.com/feed/",
       "items": [
         {
+          "title": "Panthers Cruise to 49-3 Win Over Joel Barlow on Senior Night",
+          "url": "https://southburyrecord.com/2026/11/06/panthers-cruise-to-49-3-win-over-joel-barlow-on-senior-night/",
+          "source": "The Southbury Record",
+          "published_at": "2026-11-06T18:26:47+00:00"
+        },
+        {
           "title": "Voices Ends Print Publication, Suspends News Coverage",
           "url": "https://southburyrecord.com/2026/11/04/voices-ends-print-publication-suspends-news-coverage/",
           "source": "The Southbury Record",
@@ -112,12 +118,6 @@
           "url": "https://southburyrecord.com/2026/11/04/unofficial-southbury-state-election-results-2026/",
           "source": "The Southbury Record",
           "published_at": "2026-11-04T07:05:00+00:00"
-        },
-        {
-          "title": "Person Dies Following Medical Emergency at Southbury Hotel",
-          "url": "https://southburyrecord.com/2026/11/02/person-dies-following-medical-emergency-at-southbury-hotel/",
-          "source": "The Southbury Record",
-          "published_at": "2026-11-02T19:34:40+00:00"
         }
       ]
     }
