@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="WHO ARE YOU RUNNING FROM?">
+<defs>
+<pattern id="speckle" width="15" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="6" r="1.1" fill="#b9b9b7" opacity=".28"/><circle cx="13" cy="12" r=".75" fill="#b9b9b7" opacity=".17"/></pattern>
+<pattern id="lines" width="4" height="5" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#bec0be" stroke-opacity=".038" stroke-width="1"/></pattern>
+<filter id="rattle" x="-4%" y="-10%" width="108%" height="125%"><feTurbulence type="fractalNoise" baseFrequency=".008 .053" numOctaves="2" seed="18" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="3" xChannelSelector="R" yChannelSelector="G"/></filter>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" seed="7" stitchTiles="stitch"/></filter>
+</defs>
+<rect width="1600" height="900" fill="#030305"/><rect width="1600" height="900" fill="url(#lines)"/>
+<rect width="1600" height="900" filter="url(#grain)" opacity=".06"/>
+<g font-family="'Courier New', Courier, monospace" font-size="95" font-weight="900" letter-spacing="-4" text-anchor="middle">
+<text x="804" y="378" fill="#777a7d" opacity=".33" transform="translate(-4 2)">WHO ARE YOU</text>
+<text x="800" y="378" fill="#eeece7" filter="url(#rattle)">WHO ARE YOU</text>
+<text x="806" y="500" fill="#777a7d" opacity=".33" transform="translate(-4 2)">RUNNING FROM?</text>
+<text x="800" y="500" fill="#eeece7" filter="url(#rattle)">RUNNING FROM?</text>
+</g>
+<g opacity=".25">
+<rect x="335" y="624" width="930" height="153" fill="#b8b9b7"/><rect x="335" y="624" width="930" height="153" fill="url(#speckle)"/>
+<rect x="365" y="646" width="870" height="114" fill="#030305" opacity=".75"/>
+<path d="M800 658q-65 25-50 80h100q20-60-50-80z" fill="#050506" opacity=".73"/>
+</g>
+<rect y="872" width="1600" height="2" fill="#b1b1b1" opacity=".11"/>
+</svg>
