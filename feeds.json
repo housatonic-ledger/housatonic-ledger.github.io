@@ -1,9 +1,14 @@
 {
-  "updated_at": "2026-11-06T01:22:45.834747+00:00",
+  "updated_at": "2026-11-06T07:27:54.462927+00:00",
   "items": [
     {
       "source": "NPR",
-      "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
+      "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
+    },
+    {
+      "source": "NPR",
+      "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
       "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections"
     },
     {
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races"
     },
     {
-      "source": "NPR",
-      "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine"
-    },
-    {
       "source": "BBC News",
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
       "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
       "title": "Met chief warns policing 'heading for failure' without reform",
       "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
