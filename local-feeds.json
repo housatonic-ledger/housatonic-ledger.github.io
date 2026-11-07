@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T19:03:21.892791+00:00",
+  "updated_at": "2026-11-07T01:12:15.007407+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -96,6 +96,12 @@
       "feed": "https://southburyrecord.com/feed/",
       "items": [
         {
+          "title": "Repeated Radioactive Material Findings Prompt Transfer Station Changes",
+          "url": "https://southburyrecord.com/2026/11/06/repeated-radioactive-material-findings-prompt-transfer-station-changes/",
+          "source": "The Southbury Record",
+          "published_at": "2026-11-06T20:40:11+00:00"
+        },
+        {
           "title": "Panthers Cruise to 49-3 Win Over Joel Barlow on Senior Night",
           "url": "https://southburyrecord.com/2026/11/06/panthers-cruise-to-49-3-win-over-joel-barlow-on-senior-night/",
           "source": "The Southbury Record",
@@ -112,12 +118,6 @@
           "url": "https://southburyrecord.com/2026/11/04/rodgers-to-seek-southbury-first-selectman-seat/",
           "source": "The Southbury Record",
           "published_at": "2026-11-04T11:02:27+00:00"
-        },
-        {
-          "title": "(Unofficial) Southbury State Election Results 2026",
-          "url": "https://southburyrecord.com/2026/11/04/unofficial-southbury-state-election-results-2026/",
-          "source": "The Southbury Record",
-          "published_at": "2026-11-04T07:05:00+00:00"
         }
       ]
     }
