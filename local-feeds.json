@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:55:30.105873+00:00",
+  "updated_at": "2026-11-08T01:17:10.017619+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,18 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Monroe zoning decision delivers a blow to plan for 84 apartments",
+          "url": "https://themonroesun.com/monroe-zoning-decision-delivers-a-blow-to-plan-for-84-apartments/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-07T23:01:04+00:00"
+        },
+        {
+          "title": "Masuk football team shuts out New Fairfield 47-0",
+          "url": "https://themonroesun.com/masuk-football-team-shuts-out-new-fairfield-47-0/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-07T21:34:21+00:00"
+        },
+        {
           "title": "Masuk girls volleyball captures first SWC title in school history!",
           "url": "https://themonroesun.com/masuk-girls-volleyball-captures-first-swc-title-in-school-history/",
           "source": "The Monroe Sun",
@@ -46,18 +58,6 @@
           "url": "https://themonroesun.com/coach-ed-butler-impacted-the-lives-of-thousands/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-06T06:00:12+00:00"
-        },
-        {
-          "title": "Scout Troop 203 Monroe-Trumbull to host Open House",
-          "url": "https://themonroesun.com/scout-troop-203-monroe-trumbull-to-host-open-house/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-05T23:59:51+00:00"
-        },
-        {
-          "title": "Masuk volleyball team to challenge for first SWC Championship",
-          "url": "https://themonroesun.com/masuk-volleyball-team-to-challenge-for-first-swc-championship/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-05T16:48:29+00:00"
         }
       ]
     },
