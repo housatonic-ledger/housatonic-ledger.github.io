@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:02:12.261652+00:00",
+  "updated_at": "2026-11-08T18:55:16.773140+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -12,12 +12,6 @@
           "published_at": "2026-10-15T07:00:00+00:00"
         },
         {
-          "title": "State senate candidate cited for not following construction pattern, Newtown police say",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1FlMTBGMGc0V3VLQjUtS2dZSzFIWHlSMEY0X2pLcE8yWUxDa2VidGZ3bHpNUGwzSjRVUTU2dnk2T3lhbEFvWmluaHlGRXA1TjBjdC1KcW53Rm40TnVVOTM0OUdENjRyLTZaZmJna0NkUXUwOGhkVFIzOU5BTGg5YlAyT2sxdjNrektEUm1NZWZKUFRFZEdLWUV1dHBqUm96cTJHVHp1Vks2YVV3UXh6bUFGTl9OUQ?oc=5",
-          "source": "WFSB",
-          "published_at": "2026-11-02T14:53:00+00:00"
-        },
-        {
           "title": "CT Book Fair Newtown Author Festival One Week Out",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObl9MMGZuRlNDZ0E3b1AxLWNnLU9Nc2xKZ0lVQ19JRHU3OUpkeG5oYW1yM01UakdxX0hDQ1d5SjhsQzhvd0h0WGFrdmpIWmloajlCWExWeVdvUGRySlhZU3lrLUk3d25JMDFjUjQwU2k0bmcyVFpMdE5LUGpBSWcyLVBFMFZ5YTVOX0l1VHI3WQ?oc=5",
           "source": "The Newtown Bee",
@@ -28,6 +22,12 @@
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VHBTYVNTcVR1dzFfVUo3U2E3M3lDdjJGVWQ1V294cGt1ODVmOUZRXzZwNVZxbU9lbVh1MVJuLU9pMG1Rd3dKVjJEUTdocWRVU1F4S2lsMHJCcDA4Vzd3ekR2LWVHMm9uak5LTHNWQUFzaGhXQUdpQkotRQ?oc=5",
           "source": "MaxPreps",
           "published_at": "2026-11-03T09:16:21+00:00"
+        },
+        {
+          "title": "Newtown police urge public to avoid High Bridge Road amid investigation Friday",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdV9abHUwOEN0NnpBU2k3eXRsRDZRWktiSUpCcVpxNHZLY2Vxa1J1bEtpWTVsVDJwbm94LWFfLVNRYUtDOTJIMmdpenl0NThXdXM4WV9iMHNoemo2NG4ySFhUcTNudDdnbUc5dUJoSkMwZ01lcDFUNk02OE9xRTBMYlp4RjNCTmxvZ2VOVkhsTVM5R2dieDhhZFo0RzdxZw?oc=5",
+          "source": "News-Times",
+          "published_at": "2026-10-23T07:00:00+00:00"
         }
       ]
     },
