@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T18:55:16.773140+00:00",
+  "updated_at": "2026-11-09T01:21:11.163278+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "PK success! Masuk boys soccer bounces back in state opener",
+          "url": "https://themonroesun.com/pk-success-masuk-boys-soccer-bounces-back-in-state-opener/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-08T22:16:55+00:00"
+        },
+        {
           "title": "Monroe zoning decision delivers a blow to plan for 84 apartments",
           "url": "https://themonroesun.com/monroe-zoning-decision-delivers-a-blow-to-plan-for-84-apartments/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/masuk-girls-volleyball-captures-first-swc-title-in-school-history/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-06T18:01:07+00:00"
-        },
-        {
-          "title": "Coach Ed Butler impacted the lives of thousands",
-          "url": "https://themonroesun.com/coach-ed-butler-impacted-the-lives-of-thousands/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-06T06:00:12+00:00"
         }
       ]
     },
@@ -96,6 +96,12 @@
       "feed": "https://southburyrecord.com/feed/",
       "items": [
         {
+          "title": "Rochambeau Girls’ Cross Country Wins State Middle School Title",
+          "url": "https://southburyrecord.com/2026/11/08/rochambeau-girls-cross-country-wins-state-middle-school-title/",
+          "source": "The Southbury Record",
+          "published_at": "2026-11-08T19:30:51+00:00"
+        },
+        {
           "title": "Repeated Radioactive Material Findings Prompt Transfer Station Changes",
           "url": "https://southburyrecord.com/2026/11/06/repeated-radioactive-material-findings-prompt-transfer-station-changes/",
           "source": "The Southbury Record",
@@ -112,12 +118,6 @@
           "url": "https://southburyrecord.com/2026/11/04/voices-ends-print-publication-suspends-news-coverage/",
           "source": "The Southbury Record",
           "published_at": "2026-11-04T18:01:59+00:00"
-        },
-        {
-          "title": "Rodgers to Seek Southbury First Selectman Seat",
-          "url": "https://southburyrecord.com/2026/11/04/rodgers-to-seek-southbury-first-selectman-seat/",
-          "source": "The Southbury Record",
-          "published_at": "2026-11-04T11:02:27+00:00"
         }
       ]
     }
