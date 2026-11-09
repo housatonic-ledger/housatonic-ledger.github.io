@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T07:38:31.242149+00:00",
+  "updated_at": "2026-11-09T13:26:15.196460+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -12,12 +12,6 @@
           "published_at": "2026-10-15T07:00:00+00:00"
         },
         {
-          "title": "CT Book Fair Newtown Author Festival One Week Out",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObl9MMGZuRlNDZ0E3b1AxLWNnLU9Nc2xKZ0lVQ19JRHU3OUpkeG5oYW1yM01UakdxX0hDQ1d5SjhsQzhvd0h0WGFrdmpIWmloajlCWExWeVdvUGRySlhZU3lrLUk3d25JMDFjUjQwU2k0bmcyVFpMdE5LUGpBSWcyLVBFMFZ5YTVOX0l1VHI3WQ?oc=5",
-          "source": "The Newtown Bee",
-          "published_at": "2026-10-10T07:00:00+00:00"
-        },
-        {
           "title": "Newtown High School (CT) Boys Volleyball",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VHBTYVNTcVR1dzFfVUo3U2E3M3lDdjJGVWQ1V294cGt1ODVmOUZRXzZwNVZxbU9lbVh1MVJuLU9pMG1Rd3dKVjJEUTdocWRVU1F4S2lsMHJCcDA4Vzd3ekR2LWVHMm9uak5LTHNWQUFzaGhXQUdpQkotRQ?oc=5",
           "source": "MaxPreps",
@@ -28,6 +22,12 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdV9abHUwOEN0NnpBU2k3eXRsRDZRWktiSUpCcVpxNHZLY2Vxa1J1bEtpWTVsVDJwbm94LWFfLVNRYUtDOTJIMmdpenl0NThXdXM4WV9iMHNoemo2NG4ySFhUcTNudDdnbUc5dUJoSkMwZ01lcDFUNk02OE9xRTBMYlp4RjNCTmxvZ2VOVkhsTVM5R2dieDhhZFo0RzdxZw?oc=5",
           "source": "News-Times",
           "published_at": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "title": "Absentee Ballots Available, Early Voting Open For Midterms",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalVnMlVkMWFaN2c3RkRDSlZVeUNiOTVrQzZ6TVc0czh5bmZkTXZERU1BTjgzLVVrSVJRQWI2ZXNOb25nckFISUpUQWRTR1p0YlF6ZldueFY2MHdQTTMyRWpfZnlFUk5EQnQ5NXgzdEtwSmxjYmUzNkxVa0plM1lVemQwU3NWYmhlckNwb01TMUVsUmFhbDlTeW1R?oc=5",
+          "source": "The Newtown Bee",
+          "published_at": "2026-10-19T07:00:00+00:00"
         }
       ]
     },
@@ -84,10 +84,10 @@
           "published_at": "2026-11-02T17:05:20+00:00"
         },
         {
-          "title": "Brookfield school board seeks applicants for vacant seat after deadlocked votes",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDFpVWdqMGdYSE1SNkpZb1VDWTBydXpUMmFWVUNWcl85VUFuSFJzcVRmUk1IQTBBVnQ1WEwtbm5VM0J3QWRIMjJHeUdyTld4SU9fX05JTFdqOG5DY1VvWHNIQmhOUnpnLU9xNWtMSUc1ZzY3U0d1UU5HT0JZbFNhNUI5Q280a0FnQ1NxR3JiVmJha3Boc0kxTlNkRlZXUWFMTFBtQTB5VFVnY3JwcWdn?oc=5",
-          "source": "News-Times",
-          "published_at": "2026-10-10T07:00:00+00:00"
+          "title": "James McLaughlin Obituary (2026) - Brookfield, CT - Republican American",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnRqejFfUjJNUE1XdnlNZHBoTndaOElCUUx2dWlvVl9lYWh2c1RvZW0tZ2tNUmVGUmJNbjRNWGk0OUx4alRpM21vOVZUMGlGcVRZZmoydFhYWl91UGllckZsTUk5YlRFVmJrN2p0YmZFYlZXXzBCVGhzdFhlcGNzRUUwa2hweFZHUnlqeHMwWQ?oc=5",
+          "source": "Legacy | Obituary",
+          "published_at": "2026-10-18T07:00:00+00:00"
         }
       ]
     },
