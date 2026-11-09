@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-09T13:26:15.132481+00:00",
+  "updated_at": "2026-11-09T19:05:41.853238+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution"
+    },
+    {
+      "source": "NPR",
+      "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
+    },
     {
       "source": "NPR",
       "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
       "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31"
     },
     {
-      "source": "NPR",
-      "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-      "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai"
-    },
-    {
-      "source": "NPR",
-      "title": "Democrats won big on issues like immigration. But ICE still has the money",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election"
+      "source": "BBC News",
+      "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Watch: What do we know about Jensen Huang's affair?",
-      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Moment judge sentences Brand in court",
+      "url": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
