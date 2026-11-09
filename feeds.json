@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-09T01:21:11.108824+00:00",
+  "updated_at": "2026-11-09T07:38:31.198937+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno"
+    },
     {
       "source": "NPR",
       "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026"
     },
     {
-      "source": "NPR",
-      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
+      "source": "BBC News",
+      "title": "Will Jensen Huang’s rockstar reputation survive after scandal?",
+      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss"
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss"
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
