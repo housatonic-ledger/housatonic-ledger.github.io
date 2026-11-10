@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T13:16:04.845303+00:00",
+  "updated_at": "2026-11-10T19:06:24.263659+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Monroe zoning board approves 4 apartments over Honeyspot Pizza",
+          "url": "https://themonroesun.com/monroe-zoning-board-approves-4-apartments-over-honeyspot-pizza/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-10T17:20:10+00:00"
+        },
+        {
           "title": "Monroe Community News: Rotarians donate children’s book to first graders",
           "url": "https://themonroesun.com/monroe-community-news-rotarians-donate-childrens-book-to-first-graders/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/monroe-police-reports-bus-stop-violation-fraud-breach-of-peace/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-10T02:24:31+00:00"
-        },
-        {
-          "title": "Monroe’s Washington Lodge 19 hosts first Car Show",
-          "url": "https://themonroesun.com/monroes-washington-lodge-19-hosts-first-car-show/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-09T18:36:30+00:00"
         }
       ]
     },
