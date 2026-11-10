@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-10T01:13:53.362826+00:00",
+  "updated_at": "2026-11-10T07:23:12.911078+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "California voters defeat billionaire tax proposal that divided Democrats",
+      "url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum"
+    },
     {
       "source": "NPR",
       "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump"
     },
     {
-      "source": "NPR",
-      "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth"
-    },
-    {
       "source": "BBC News",
-      "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+      "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
       "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
       "title": "What happened inside court as Brand was sentenced",
       "url": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
