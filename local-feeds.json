@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:05:41.915125+00:00",
+  "updated_at": "2026-11-10T01:13:53.425854+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -12,6 +12,12 @@
           "published_at": "2026-10-15T07:00:00+00:00"
         },
         {
+          "title": "State senate candidate cited for not following construction pattern, Newtown police say",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1FlMTBGMGc0V3VLQjUtS2dZSzFIWHlSMEY0X2pLcE8yWUxDa2VidGZ3bHpNUGwzSjRVUTU2dnk2T3lhbEFvWmluaHlGRXA1TjBjdC1KcW53Rm40TnVVOTM0OUdENjRyLTZaZmJna0NkUXUwOGhkVFIzOU5BTGg5YlAyT2sxdjNrektEUm1NZWZKUFRFZEdLWUV1dHBqUm96cTJHVHp1Vks2YVV3UXh6bUFGTl9OUQ?oc=5",
+          "source": "WFSB",
+          "published_at": "2026-11-02T14:53:00+00:00"
+        },
+        {
           "title": "Newtown High School (CT) Boys Volleyball",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VHBTYVNTcVR1dzFfVUo3U2E3M3lDdjJGVWQ1V294cGt1ODVmOUZRXzZwNVZxbU9lbVh1MVJuLU9pMG1Rd3dKVjJEUTdocWRVU1F4S2lsMHJCcDA4Vzd3ekR2LWVHMm9uak5LTHNWQUFzaGhXQUdpQkotRQ?oc=5",
           "source": "MaxPreps",
@@ -22,12 +28,6 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdV9abHUwOEN0NnpBU2k3eXRsRDZRWktiSUpCcVpxNHZLY2Vxa1J1bEtpWTVsVDJwbm94LWFfLVNRYUtDOTJIMmdpenl0NThXdXM4WV9iMHNoemo2NG4ySFhUcTNudDdnbUc5dUJoSkMwZ01lcDFUNk02OE9xRTBMYlp4RjNCTmxvZ2VOVkhsTVM5R2dieDhhZFo0RzdxZw?oc=5",
           "source": "News-Times",
           "published_at": "2026-10-23T07:00:00+00:00"
-        },
-        {
-          "title": "Absentee Ballots Available, Early Voting Open For Midterms",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalVnMlVkMWFaN2c3RkRDSlZVeUNiOTVrQzZ6TVc0czh5bmZkTXZERU1BTjgzLVVrSVJRQWI2ZXNOb25nckFISUpUQWRTR1p0YlF6ZldueFY2MHdQTTMyRWpfZnlFUk5EQnQ5NXgzdEtwSmxjYmUzNkxVa0plM1lVemQwU3NWYmhlckNwb01TMUVsUmFhbDlTeW1R?oc=5",
-          "source": "The Newtown Bee",
-          "published_at": "2026-10-19T07:00:00+00:00"
         }
       ]
     },
@@ -96,28 +96,28 @@
       "feed": "https://southburyrecord.com/feed/",
       "items": [
         {
+          "title": "Southbury Ambulance Volunteer Received Youth EMS Honor",
+          "url": "https://southburyrecord.com/2026/11/09/southbury-ambulance-volunteer-received-youth-ems-honor/",
+          "source": "The Southbury Record",
+          "published_at": "2026-11-10T00:43:26+00:00"
+        },
+        {
+          "title": "Southbury’s Holiday Illumination Celebration Set for Nov. 28",
+          "url": "https://southburyrecord.com/2026/11/09/southburys-holiday-illumination-celebration-set-for-nov-28/",
+          "source": "The Southbury Record",
+          "published_at": "2026-11-09T20:55:17+00:00"
+        },
+        {
+          "title": "Justice Southbury to Host Second Community Conversation Thursday",
+          "url": "https://southburyrecord.com/2026/11/09/justice-southbury-to-host-second-community-conversation-thursday/",
+          "source": "The Southbury Record",
+          "published_at": "2026-11-09T19:45:24+00:00"
+        },
+        {
           "title": "Rochambeau Girls’ Cross Country Wins State Middle School Title",
           "url": "https://southburyrecord.com/2026/11/08/rochambeau-girls-cross-country-wins-state-middle-school-title/",
           "source": "The Southbury Record",
           "published_at": "2026-11-08T19:30:51+00:00"
-        },
-        {
-          "title": "Repeated Radioactive Material Findings Prompt Transfer Station Changes",
-          "url": "https://southburyrecord.com/2026/11/06/repeated-radioactive-material-findings-prompt-transfer-station-changes/",
-          "source": "The Southbury Record",
-          "published_at": "2026-11-06T20:40:11+00:00"
-        },
-        {
-          "title": "Panthers Cruise to 49-3 Win Over Joel Barlow on Senior Night",
-          "url": "https://southburyrecord.com/2026/11/06/panthers-cruise-to-49-3-win-over-joel-barlow-on-senior-night/",
-          "source": "The Southbury Record",
-          "published_at": "2026-11-06T18:26:47+00:00"
-        },
-        {
-          "title": "Voices Ends Print Publication, Suspends News Coverage",
-          "url": "https://southburyrecord.com/2026/11/04/voices-ends-print-publication-suspends-news-coverage/",
-          "source": "The Southbury Record",
-          "published_at": "2026-11-04T18:01:59+00:00"
         }
       ]
     }
