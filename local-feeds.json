@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:06:24.263659+00:00",
+  "updated_at": "2026-11-11T01:17:01.598383+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Veterans Ceremony to be held on Stepney Green Wednesday",
+          "url": "https://themonroesun.com/veterans-ceremony-to-be-held-on-stepney-green-wednesday/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-10T21:28:57+00:00"
+        },
+        {
           "title": "Monroe zoning board approves 4 apartments over Honeyspot Pizza",
           "url": "https://themonroesun.com/monroe-zoning-board-approves-4-apartments-over-honeyspot-pizza/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/masuk-swimmers-compete-in-swc-championships/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-10T02:51:09+00:00"
-        },
-        {
-          "title": "Monroe Police Reports: Bus stop violation, fraud, breach of peace …",
-          "url": "https://themonroesun.com/monroe-police-reports-bus-stop-violation-fraud-breach-of-peace/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-10T02:24:31+00:00"
         }
       ]
     },
@@ -72,22 +72,22 @@
           "published_at": "2026-11-04T15:17:24+00:00"
         },
         {
-          "title": "Blue wave crashes over CT General Assembly",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uSlR2Uk00ZnR1alhxSklLaGdmQS1rakt1bzBTODdLUHlSS3BLRkhxWmtSQ3ByQzlxOF82dnd4bHAtNVFuTTNmek9KOUFwWHZlV2lac1ZkX0pRQ2MtVkNYaVdVSEIzYWRfV0RFdXdZTllYZG1leFkxeWdCUDhLUQ?oc=5",
-          "source": "CT Mirror",
-          "published_at": "2026-11-04T05:13:15+00:00"
-        },
-        {
           "title": "Brookfield Basketball Schedule",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHp3NnBPZUVsRXZ0MEdURS1KOGNTbnQzekh1eWlfaXlCdllKZjR5YW1Pd09FTThtaEJTSDFTZXlqZmZjOEJRTWstWnBfdkI0eG84dVpCRFpEMWh5NGJfeU5TTTBadFFzcWR5T2pvR1gxalNhOFpmMzRfVk9kODBZVWgzQ1c?oc=5",
           "source": "MaxPreps",
           "published_at": "2026-11-02T17:05:20+00:00"
         },
         {
-          "title": "James McLaughlin Obituary (2026) - Brookfield, CT - Republican American",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnRqejFfUjJNUE1XdnlNZHBoTndaOElCUUx2dWlvVl9lYWh2c1RvZW0tZ2tNUmVGUmJNbjRNWGk0OUx4alRpM21vOVZUMGlGcVRZZmoydFhYWl91UGllckZsTUk5YlRFVmJrN2p0YmZFYlZXXzBCVGhzdFhlcGNzRUUwa2hweFZHUnlqeHMwWQ?oc=5",
+          "title": "Kimberly A. Ferrante Obituary (2026) - Brookfield, CT - Brookfield Funeral Home",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT1hMMkRrY2UtZG9pbVE2SVFSSl9NRVlPVURTQkNOalZ1VmZieW1NNlJkY09VNC11WFJ4amNfZ0I5UFBoaDZ1c2s5alRORF9QemFlTGlPNVVnQmktckZiYUh5cW1zbHdFWWM4cVVuM0tyQTZYcWRybm81eEtHWVQyNHRMVl9pTUE?oc=5",
           "source": "Legacy | Obituary",
-          "published_at": "2026-10-18T07:00:00+00:00"
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "28 Obtuse Hill Rd, Brookfield, CT 06804",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTdiS3hQcE5XWXRiX3d4ZDFBcTlidVphQzd2RFNJNzE3VDFXWmsxaW5ieGFjNjNrY3FMQ3p1TnQtM3RNWkdrUFZ1T015bjR3WnNMUXliYmYtRnFORG40WG1rR1h0Z2luTDVXS3MxaEo0eHZDaDlIQWpoNlBrXzZDb28tQ2RFRzc2WTdGOUM0Z3FnU2ph?oc=5",
+          "source": "Realtor.com",
+          "published_at": "2026-11-10T15:06:30+00:00"
         }
       ]
     },
