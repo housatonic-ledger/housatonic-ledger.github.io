@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-11T01:17:01.529933+00:00",
+  "updated_at": "2026-11-11T07:27:43.317599+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says"
+    },
     {
       "source": "NPR",
       "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations"
     },
     {
-      "source": "NPR",
-      "title": "Should you trust new AI agents with your money and data?",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data"
-    },
-    {
       "source": "BBC News",
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "David Walliams accused of sexual misconduct after losing injunction bid",
-      "url": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss"
+      "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
       "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
       "url": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
