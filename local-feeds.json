@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:25:10.695430+00:00",
+  "updated_at": "2026-11-12T07:31:43.884478+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -24,10 +24,10 @@
           "published_at": "2026-11-03T09:16:21+00:00"
         },
         {
-          "title": "Connecticut Book Festivals Arrives In Newtown With Event Featuring 36 Authors",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkt5dHRuQ0FJdV8yTWNnZHh0MTE2UjZ5TjFuNkV6MERMaU9BQ3NKYjMzb1FueC1GenZSblhIS055X0kyTGZGRFRWY0c1RDB1bjVrdWFOX09aYjVWTmJvUW1BZk1RYk9EUHJwOG9TLXc4VE1LVURncGU2cGtma09YUkFweFM0cXBVODBOVHZnZ281OWV2akpORVZ5cFlQSzluVEVDTElrZzdHaEdxNjUtSzE2aVg?oc=5",
+          "title": "Absentee Ballots Available, Early Voting Open For Midterms",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalVnMlVkMWFaN2c3RkRDSlZVeUNiOTVrQzZ6TVc0czh5bmZkTXZERU1BTjgzLVVrSVJRQWI2ZXNOb25nckFISUpUQWRTR1p0YlF6ZldueFY2MHdQTTMyRWpfZnlFUk5EQnQ5NXgzdEtwSmxjYmUzNkxVa0plM1lVemQwU3NWYmhlckNwb01TMUVsUmFhbDlTeW1R?oc=5",
           "source": "The Newtown Bee",
-          "published_at": "2026-10-31T11:32:39+00:00"
+          "published_at": "2026-10-19T07:00:00+00:00"
         }
       ]
     },
@@ -35,6 +35,12 @@
       "name": "Monroe",
       "feed": "https://themonroesun.com/feed/",
       "items": [
+        {
+          "title": "‘People who make history are often our own neighbors’",
+          "url": "https://themonroesun.com/people-who-make-history-are-often-our-own-neighbors/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-12T05:58:09+00:00"
+        },
         {
           "title": "Veterans Ceremony to be held on Stepney Green Wednesday",
           "url": "https://themonroesun.com/veterans-ceremony-to-be-held-on-stepney-green-wednesday/",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/monroe-community-news-rotarians-donate-childrens-book-to-first-graders/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-10T02:52:39+00:00"
-        },
-        {
-          "title": "Masuk swimmers compete in SWC Championships",
-          "url": "https://themonroesun.com/masuk-swimmers-compete-in-swc-championships/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-10T02:51:09+00:00"
         }
       ]
     },
@@ -66,10 +66,10 @@
       "feed": "https://news.google.com/rss/search?q=%22Brookfield%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
       "items": [
         {
-          "title": "Brookfield 2026 Election Results: Winners Revealed In Key Races",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkU1bjRHVVhtRVZUR01VYmQzTmYzYms5Z0hQZldUMkNXdmoxTlBLaWZoM1RVak9JUklsckZEMUtMa0NSSTZ2M3BCdXNMVGFXNUtTV1BaQlFmWHhLSS1nU1BGSThFUFNwT3IxN3RNTEZ3UXd6a0hwUnRyNUc1eXpzbjhpaVh1eHhRbkZRZlJ4bWhrMmJFeW1td3BvRjVzcnBxcHNLSmhfeXHSAbcBQVVfeXFMTmdaU1hTOEcwLTg1cEMzM2hyMVZ6Q1JWY3VMUFhNOTBhQXVkSC1xNkxBYjNQQWZXUFR4ZDk5VjlqVzdZMHBqOUpwemh0M20tUkg0SndCZFdEQUlFN25rUnIwNkRTcEZHWklwR1pUT2h2blFtT2lpekNmeTFrWmdZLUVXY21oVm02SkoxYzhONzJmMGM1ZmlsMkl4V2F0UGlhS3J4WVF4WnUtU2g0WGxoaDg4NFo2Y1A4?oc=5",
+          "title": "Brookfield Election Results 2026: Vote Totals For Every Race",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVBTMUFPWFVBc2lueEx3SVl4eTBoRUFsLTBRNkJCQ291VU1YemdfaHZpVWt6WnpJUmE3STZQVktpM2ozQjV5MlhSaVBLOUdDYUtLR0hZaHE3R1pmVnF3dzZ0UDJYWUl4MVlyaTVpU1dtVG14RFNFMXhQcjh5VzBlM3dSY0Nuc3JvMGROUk9mTU1IZVFSQ2VmVllDeV8?oc=5",
           "source": "Patch",
-          "published_at": "2026-11-04T01:00:00+00:00"
+          "published_at": "2026-11-04T15:17:24+00:00"
         },
         {
           "title": "Blue wave crashes over CT General Assembly",

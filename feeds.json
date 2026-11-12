@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-12T01:25:10.642696+00:00",
+  "updated_at": "2026-11-12T07:31:43.821035+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking"
+    },
     {
       "source": "NPR",
       "title": "Democrat Scott Colom wins the closest Senate race in the country",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom"
     },
     {
-      "source": "NPR",
-      "title": "Why is gasoline suddenly under $4 a gallon?",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon"
-    },
-    {
       "source": "BBC News",
-      "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
-      "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
       "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Government could force media industry to improve safeguards after Walliams allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
