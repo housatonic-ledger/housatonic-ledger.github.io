@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T13:26:08.463934+00:00",
+  "updated_at": "2026-11-12T19:08:20.167462+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -24,10 +24,10 @@
           "published_at": "2026-11-03T09:16:21+00:00"
         },
         {
-          "title": "Absentee Ballots Available, Early Voting Open For Midterms",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalVnMlVkMWFaN2c3RkRDSlZVeUNiOTVrQzZ6TVc0czh5bmZkTXZERU1BTjgzLVVrSVJRQWI2ZXNOb25nckFISUpUQWRTR1p0YlF6ZldueFY2MHdQTTMyRWpfZnlFUk5EQnQ5NXgzdEtwSmxjYmUzNkxVa0plM1lVemQwU3NWYmhlckNwb01TMUVsUmFhbDlTeW1R?oc=5",
+          "title": "Connecticut Book Festivals Arrives In Newtown With Event Featuring 36 Authors",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkt5dHRuQ0FJdV8yTWNnZHh0MTE2UjZ5TjFuNkV6MERMaU9BQ3NKYjMzb1FueC1GenZSblhIS055X0kyTGZGRFRWY0c1RDB1bjVrdWFOX09aYjVWTmJvUW1BZk1RYk9EUHJwOG9TLXc4VE1LVURncGU2cGtma09YUkFweFM0cXBVODBOVHZnZ281OWV2akpORVZ5cFlQSzluVEVDTElrZzdHaEdxNjUtSzE2aVg?oc=5",
           "source": "The Newtown Bee",
-          "published_at": "2026-10-19T07:00:00+00:00"
+          "published_at": "2026-10-31T11:32:39+00:00"
         }
       ]
     },
@@ -35,6 +35,18 @@
       "name": "Monroe",
       "feed": "https://themonroesun.com/feed/",
       "items": [
+        {
+          "title": "Stepney teachers honor memory of Vicki Soto at her annual 5k race",
+          "url": "https://themonroesun.com/stepney-teachers-honor-memory-of-vicki-soto-at-her-annual-5k-race/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-12T16:37:20+00:00"
+        },
+        {
+          "title": "Masuk girls soccer reaches state quarterfinal, matchup with Pomperaug",
+          "url": "https://themonroesun.com/masuk-girls-soccer-reaches-state-quarterfinal-matchup-with-pomperaug/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-12T15:45:26+00:00"
+        },
         {
           "title": "‘People who make history are often our own neighbors’",
           "url": "https://themonroesun.com/people-who-make-history-are-often-our-own-neighbors/",
@@ -46,18 +58,6 @@
           "url": "https://themonroesun.com/veterans-ceremony-to-be-held-on-stepney-green-wednesday/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-10T21:28:57+00:00"
-        },
-        {
-          "title": "Monroe zoning board approves 4 apartments over Honeyspot Pizza",
-          "url": "https://themonroesun.com/monroe-zoning-board-approves-4-apartments-over-honeyspot-pizza/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-10T17:20:10+00:00"
-        },
-        {
-          "title": "Monroe Community News: Rotarians donate children’s book to first graders",
-          "url": "https://themonroesun.com/monroe-community-news-rotarians-donate-childrens-book-to-first-graders/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-10T02:52:39+00:00"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "Blue wave crashes over CT General Assembly",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uSlR2Uk00ZnR1alhxSklLaGdmQS1rakt1bzBTODdLUHlSS3BLRkhxWmtSQ3ByQzlxOF82dnd4bHAtNVFuTTNmek9KOUFwWHZlV2lac1ZkX0pRQ2MtVkNYaVdVSEIzYWRfV0RFdXdZTllYZG1leFkxeWdCUDhLUQ?oc=5",
           "source": "CT Mirror",
-          "published_at": "2026-11-04T05:13:15+00:00"
+          "published_at": "2026-11-04T08:00:00+00:00"
         },
         {
           "title": "Brookfield Basketball Schedule",
@@ -84,10 +84,10 @@
           "published_at": "2026-11-02T17:05:20+00:00"
         },
         {
-          "title": "28 Obtuse Hill Rd, Brookfield, CT 06804",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTdiS3hQcE5XWXRiX3d4ZDFBcTlidVphQzd2RFNJNzE3VDFXWmsxaW5ieGFjNjNrY3FMQ3p1TnQtM3RNWkdrUFZ1T015bjR3WnNMUXliYmYtRnFORG40WG1rR1h0Z2luTDVXS3MxaEo0eHZDaDlIQWpoNlBrXzZDb28tQ2RFRzc2WTdGOUM0Z3FnU2ph?oc=5",
-          "source": "Realtor.com",
-          "published_at": "2026-11-10T15:06:30+00:00"
+          "title": "Kimberly A. Ferrante Obituary (2026) - Brookfield, CT - Brookfield Funeral Home",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT1hMMkRrY2UtZG9pbVE2SVFSSl9NRVlPVURTQkNOalZ1VmZieW1NNlJkY09VNC11WFJ4amNfZ0I5UFBoaDZ1c2s5alRORF9QemFlTGlPNVVnQmktckZiYUh5cW1zbHdFWWM4cVVuM0tyQTZYcWRybm81eEtHWVQyNHRMVl9pTUE?oc=5",
+          "source": "Legacy | Obituary",
+          "published_at": "2026-10-22T07:00:00+00:00"
         }
       ]
     },
