@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-13T01:21:10.374593+00:00",
+  "updated_at": "2026-11-13T07:28:46.284855+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader"
+    },
+    {
+      "source": "NPR",
+      "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps"
+    },
     {
       "source": "NPR",
       "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
       "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson"
     },
     {
-      "source": "NPR",
-      "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-      "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms"
-    },
-    {
-      "source": "NPR",
-      "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang"
+      "source": "BBC News",
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+      "title": "Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
-      "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss"
+      "title": "Asylum centre on military base near Piddington approved",
+      "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [

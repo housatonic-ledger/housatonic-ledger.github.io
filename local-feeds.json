@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:21:10.437220+00:00",
+  "updated_at": "2026-11-13T07:28:46.341915+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -24,10 +24,10 @@
           "published_at": "2026-11-03T09:16:21+00:00"
         },
         {
-          "title": "Connecticut Book Festivals Arrives In Newtown With Event Featuring 36 Authors",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkt5dHRuQ0FJdV8yTWNnZHh0MTE2UjZ5TjFuNkV6MERMaU9BQ3NKYjMzb1FueC1GenZSblhIS055X0kyTGZGRFRWY0c1RDB1bjVrdWFOX09aYjVWTmJvUW1BZk1RYk9EUHJwOG9TLXc4VE1LVURncGU2cGtma09YUkFweFM0cXBVODBOVHZnZ281OWV2akpORVZ5cFlQSzluVEVDTElrZzdHaEdxNjUtSzE2aVg?oc=5",
+          "title": "Absentee Ballots Available, Early Voting Open For Midterms",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalVnMlVkMWFaN2c3RkRDSlZVeUNiOTVrQzZ6TVc0czh5bmZkTXZERU1BTjgzLVVrSVJRQWI2ZXNOb25nckFISUpUQWRTR1p0YlF6ZldueFY2MHdQTTMyRWpfZnlFUk5EQnQ5NXgzdEtwSmxjYmUzNkxVa0plM1lVemQwU3NWYmhlckNwb01TMUVsUmFhbDlTeW1R?oc=5",
           "source": "The Newtown Bee",
-          "published_at": "2026-10-31T11:32:39+00:00"
+          "published_at": "2026-10-19T07:00:00+00:00"
         }
       ]
     },
@@ -35,6 +35,12 @@
       "name": "Monroe",
       "feed": "https://themonroesun.com/feed/",
       "items": [
+        {
+          "title": "Monroe’s public schools honor local heroes on Veterans Day",
+          "url": "https://themonroesun.com/monroes-public-schools-honor-local-heroes-on-veterans-day/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-13T02:02:24+00:00"
+        },
         {
           "title": "Monroe Fire Chief: Tree crew accident sparks 3 house fires",
           "url": "https://themonroesun.com/monroe-fire-chief-tree-crew-accident-sparks-3-house-fires/",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/stepney-teachers-honor-memory-of-vicki-soto-at-her-annual-5k-race/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-12T16:37:20+00:00"
-        },
-        {
-          "title": "Masuk girls soccer reaches state quarterfinal, matchup with Pomperaug",
-          "url": "https://themonroesun.com/masuk-girls-soccer-reaches-state-quarterfinal-matchup-with-pomperaug/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-12T15:45:26+00:00"
         }
       ]
     },
