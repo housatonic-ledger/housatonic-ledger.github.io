@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:14:20.042980+00:00",
+  "updated_at": "2026-11-14T07:15:16.608091+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -21,13 +21,13 @@
           "title": "Newtown High School (CT) Boys Volleyball",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VHBTYVNTcVR1dzFfVUo3U2E3M3lDdjJGVWQ1V294cGt1ODVmOUZRXzZwNVZxbU9lbVh1MVJuLU9pMG1Rd3dKVjJEUTdocWRVU1F4S2lsMHJCcDA4Vzd3ekR2LWVHMm9uak5LTHNWQUFzaGhXQUdpQkotRQ?oc=5",
           "source": "MaxPreps",
-          "published_at": "2026-11-03T09:16:21+00:00"
+          "published_at": "2026-11-03T08:00:00+00:00"
         },
         {
-          "title": "Absentee Ballots Available, Early Voting Open For Midterms",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalVnMlVkMWFaN2c3RkRDSlZVeUNiOTVrQzZ6TVc0czh5bmZkTXZERU1BTjgzLVVrSVJRQWI2ZXNOb25nckFISUpUQWRTR1p0YlF6ZldueFY2MHdQTTMyRWpfZnlFUk5EQnQ5NXgzdEtwSmxjYmUzNkxVa0plM1lVemQwU3NWYmhlckNwb01TMUVsUmFhbDlTeW1R?oc=5",
+          "title": "Connecticut Book Festivals Arrives In Newtown With Event Featuring 36 Authors",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkt5dHRuQ0FJdV8yTWNnZHh0MTE2UjZ5TjFuNkV6MERMaU9BQ3NKYjMzb1FueC1GenZSblhIS055X0kyTGZGRFRWY0c1RDB1bjVrdWFOX09aYjVWTmJvUW1BZk1RYk9EUHJwOG9TLXc4VE1LVURncGU2cGtma09YUkFweFM0cXBVODBOVHZnZ281OWV2akpORVZ5cFlQSzluVEVDTElrZzdHaEdxNjUtSzE2aVg?oc=5",
           "source": "The Newtown Bee",
-          "published_at": "2026-10-19T07:00:00+00:00"
+          "published_at": "2026-10-31T11:32:39+00:00"
         }
       ]
     },
@@ -35,6 +35,18 @@
       "name": "Monroe",
       "feed": "https://themonroesun.com/feed/",
       "items": [
+        {
+          "title": "Volleyball star Addison Scott evolves into a track & field phenom",
+          "url": "https://themonroesun.com/volleyball-star-addison-scott-evolves-into-a-track-field-phenom/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-14T04:52:29+00:00"
+        },
+        {
+          "title": "Graham Gabriel: If he’s on the mound, we can’t lose.",
+          "url": "https://themonroesun.com/graham-gabriel-if-hes-on-the-mound-we-cant-lose/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-14T04:49:01+00:00"
+        },
         {
           "title": "Monroe officials celebrate new section of the Housatonic Rail Trail",
           "url": "https://themonroesun.com/monroe-officials-celebrate-new-section-of-the-housatonic-rail-trail/",
@@ -46,18 +58,6 @@
           "url": "https://themonroesun.com/masuk-boys-soccer-coaches-reflect-on-season-following-state-tourney-exit/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-13T14:04:35+00:00"
-        },
-        {
-          "title": "Monroe’s public schools honor local heroes on Veterans Day",
-          "url": "https://themonroesun.com/monroes-public-schools-honor-local-heroes-on-veterans-day/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-13T02:02:24+00:00"
-        },
-        {
-          "title": "Monroe Fire Chief: Tree crew accident sparks 3 house fires",
-          "url": "https://themonroesun.com/monroe-fire-chief-tree-crew-accident-sparks-3-house-fires/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-12T21:31:28+00:00"
         }
       ]
     },
@@ -84,10 +84,10 @@
           "published_at": "2026-11-10T20:16:08+00:00"
         },
         {
-          "title": "Brookfield 2026 Election Voter Guide: Meet The Candidates",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnRhZ3RZOXlnN3FYX2FmakZaUE55bm9QX0pzY2JrdDFDVVgwdGV5aS1oWVJmZGlZRVdyWE0ydzlsOWE1NzB0LWNoRDFmeG9ZXzY3N0tuWGZFVHRHZUVjdURLd3BnYW05QWZkTTl0OWF3TTJVUFlfVktNZS0ySWx4X2lkZU4ydzBCTlFDMElfTFA3Z2ZWUVdFdQ?oc=5",
-          "source": "Patch",
-          "published_at": "2026-11-02T08:00:00+00:00"
+          "title": "28 Obtuse Hill Rd, Brookfield, CT 06804",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTdiS3hQcE5XWXRiX3d4ZDFBcTlidVphQzd2RFNJNzE3VDFXWmsxaW5ieGFjNjNrY3FMQ3p1TnQtM3RNWkdrUFZ1T015bjR3WnNMUXliYmYtRnFORG40WG1rR1h0Z2luTDVXS3MxaEo0eHZDaDlIQWpoNlBrXzZDb28tQ2RFRzc2WTdGOUM0Z3FnU2ph?oc=5",
+          "source": "Realtor.com",
+          "published_at": "2026-11-10T15:06:30+00:00"
         }
       ]
     },

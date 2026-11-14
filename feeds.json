@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-14T01:14:19.984970+00:00",
+  "updated_at": "2026-11-14T07:15:16.553248+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+      "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
+    },
     {
       "source": "NPR",
       "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences"
     },
     {
-      "source": "NPR",
-      "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting"
+      "source": "BBC News",
+      "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
+      "title": "Young people should have legal guarantee to job or training, review author tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-      "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
