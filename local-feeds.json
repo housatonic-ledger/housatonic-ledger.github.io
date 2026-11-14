@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:03:19.642618+00:00",
+  "updated_at": "2026-11-14T18:55:37.120630+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -24,10 +24,10 @@
           "published_at": "2026-11-03T08:00:00+00:00"
         },
         {
-          "title": "Connecticut Book Festivals Arrives In Newtown With Event Featuring 36 Authors",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkt5dHRuQ0FJdV8yTWNnZHh0MTE2UjZ5TjFuNkV6MERMaU9BQ3NKYjMzb1FueC1GenZSblhIS055X0kyTGZGRFRWY0c1RDB1bjVrdWFOX09aYjVWTmJvUW1BZk1RYk9EUHJwOG9TLXc4VE1LVURncGU2cGtma09YUkFweFM0cXBVODBOVHZnZ281OWV2akpORVZ5cFlQSzluVEVDTElrZzdHaEdxNjUtSzE2aVg?oc=5",
-          "source": "The Newtown Bee",
-          "published_at": "2026-10-31T11:32:39+00:00"
+          "title": "Judge rejects Newtown’s reason for denying 300-apartment plan protected by CT affordable housing law",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcENvTmgxLXhtOEdlSDRxUWE2ZURLSXZBSG9jc1VxQXpIOERTeDJtRW9BSWMwb29XYkNtWmlMd3Z1SzgtVGJtOTE2VFpZenZ5V2tKUF9lSXYwM01hVHVXOTJlU3pkWElMT2t4dEpVNXE4eEM4cmo2NnVfUjNoZzhaNk9tLTlGeVdoLVhzbW0wbkV2QUE0RGRrdHVRM21xWl9QQi1tXw?oc=5",
+          "source": "News-Times",
+          "published_at": "2026-11-10T09:16:49+00:00"
         }
       ]
     },
@@ -35,6 +35,12 @@
       "name": "Monroe",
       "feed": "https://themonroesun.com/feed/",
       "items": [
+        {
+          "title": "David Wolfe always embodied the Rotary motto: Service Above Self",
+          "url": "https://themonroesun.com/david-wolfe-always-embodied-the-rotary-motto-service-above-self/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-14T18:16:34+00:00"
+        },
         {
           "title": "Volleyball star Addison Scott evolves into a track & field phenom",
           "url": "https://themonroesun.com/volleyball-star-addison-scott-evolves-into-a-track-field-phenom/",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/monroe-officials-celebrate-new-section-of-the-housatonic-rail-trail/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-13T18:52:05+00:00"
-        },
-        {
-          "title": "Masuk boys soccer coaches reflect on season following state tourney exit",
-          "url": "https://themonroesun.com/masuk-boys-soccer-coaches-reflect-on-season-following-state-tourney-exit/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-13T14:04:35+00:00"
         }
       ]
     },
@@ -78,16 +78,16 @@
           "published_at": "2026-11-02T17:05:20+00:00"
         },
         {
+          "title": "Injuries reported after crash involving school bus in Brookfield",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV01wZW94dGJZa2NMejFkQXIxZHpZa3lNUUZQR25wODNHR3ZsaG0ySG1hcXRGcE9CRUtGN2lHamM4Q2hhRWI3NDgwTThoeDhMX3VQSGtrclQ4RXJLT2lRVkgyMWRVOFBQSm1jLXBpYlFlU19pbFhTb2t1TmFYME92dFczUlpEZjlkaHBCLWJRcU5kOWd1bndhd1930gGuAUFVX3lxTFBsMHdzYUhEOE9JVTFNX0dqdzRLdFl2MDQwblZwSVViMGVMVHFRZjQ1TG5la0F4UlFuN3prWHAyY0VSVXdUNXNjcWFEcGRGN2NsazQ5X1R3OVhaVks5MVhYUXA4dHAtM3FRTGhpUXVHZkNDcC0yMkZqX202MUdHVmRPUnBiUGNzOVlERU1MYUxMM3dHSDZQdGlCMDhlNUdsV2wtNUNPR2RZeTBBLUlxQQ?oc=5",
+          "source": "WFSB",
+          "published_at": "2026-10-26T07:00:00+00:00"
+        },
+        {
           "title": "Thomas Roderick Hensal Obituary (2026) - Brookfield, CT - Brookfield Funeral Home",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU1FMeEw3Z1BKWVVUb0dpaDFYSUxGcWVoWVMteWE3WjZVN1cxNzJZMy1RQzhDamVUREZJa1AxcjFpTW0xYTlIU1hMai15MWJSRUlfV3RvWGFYSmk5c0VQb1ZWQWsyQUlBTUpoem52V1VZelNiOFpRTDlZVEtoZkhnS2N3?oc=5",
           "source": "Legacy | Obituary",
           "published_at": "2026-11-10T20:16:08+00:00"
-        },
-        {
-          "title": "28 Obtuse Hill Rd, Brookfield, CT 06804",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTdiS3hQcE5XWXRiX3d4ZDFBcTlidVphQzd2RFNJNzE3VDFXWmsxaW5ieGFjNjNrY3FMQ3p1TnQtM3RNWkdrUFZ1T015bjR3WnNMUXliYmYtRnFORG40WG1rR1h0Z2luTDVXS3MxaEo0eHZDaDlIQWpoNlBrXzZDb28tQ2RFRzc2WTdGOUM0Z3FnU2ph?oc=5",
-          "source": "Realtor.com",
-          "published_at": "2026-11-10T15:06:30+00:00"
         }
       ]
     },
