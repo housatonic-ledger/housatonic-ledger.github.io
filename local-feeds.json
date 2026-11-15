@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T01:19:59.125248+00:00",
+  "updated_at": "2026-11-15T07:16:41.375361+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -24,10 +24,10 @@
           "published_at": "2026-11-03T08:00:00+00:00"
         },
         {
-          "title": "Judge rejects Newtown’s reason for denying 300-apartment plan protected by CT affordable housing law",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcENvTmgxLXhtOEdlSDRxUWE2ZURLSXZBSG9jc1VxQXpIOERTeDJtRW9BSWMwb29XYkNtWmlMd3Z1SzgtVGJtOTE2VFpZenZ5V2tKUF9lSXYwM01hVHVXOTJlU3pkWElMT2t4dEpVNXE4eEM4cmo2NnVfUjNoZzhaNk9tLTlGeVdoLVhzbW0wbkV2QUE0RGRrdHVRM21xWl9QQi1tXw?oc=5",
-          "source": "News-Times",
-          "published_at": "2026-11-10T09:16:49+00:00"
+          "title": "Connecticut Book Festivals Arrives In Newtown With Event Featuring 36 Authors",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkt5dHRuQ0FJdV8yTWNnZHh0MTE2UjZ5TjFuNkV6MERMaU9BQ3NKYjMzb1FueC1GenZSblhIS055X0kyTGZGRFRWY0c1RDB1bjVrdWFOX09aYjVWTmJvUW1BZk1RYk9EUHJwOG9TLXc4VE1LVURncGU2cGtma09YUkFweFM0cXBVODBOVHZnZ281OWV2akpORVZ5cFlQSzluVEVDTElrZzdHaEdxNjUtSzE2aVg?oc=5",
+          "source": "The Newtown Bee",
+          "published_at": "2026-10-31T11:32:39+00:00"
         }
       ]
     },
@@ -35,6 +35,12 @@
       "name": "Monroe",
       "feed": "https://themonroesun.com/feed/",
       "items": [
+        {
+          "title": "Masuk girls volleyball team reaches Class L State semis",
+          "url": "https://themonroesun.com/masuk-girls-volleyball-team-reaches-class-l-state-semis/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-15T02:39:04+00:00"
+        },
         {
           "title": "Scout Troops 62 and 26 bid fond farewells to former leaders",
           "url": "https://themonroesun.com/scout-troops-62-and-26-bid-fond-farewells-to-former-leaders/",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/volleyball-star-addison-scott-evolves-into-a-track-field-phenom/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-14T04:52:29+00:00"
-        },
-        {
-          "title": "Graham Gabriel: If he’s on the mound, we can’t lose.",
-          "url": "https://themonroesun.com/graham-gabriel-if-hes-on-the-mound-we-cant-lose/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-14T04:49:01+00:00"
         }
       ]
     },
