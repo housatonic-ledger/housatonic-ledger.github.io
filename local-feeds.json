@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T01:35:52.095564+00:00",
+  "updated_at": "2026-11-16T08:57:48.603122+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Monroe donates $100,000 for Veterans & First Responders Center project",
+          "url": "https://themonroesun.com/monroe-donates-100000-for-veterans-first-responders-center-project/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-16T02:49:09+00:00"
+        },
+        {
           "title": "Senior Night win for Masuk’s football team",
           "url": "https://themonroesun.com/senior-night-win-for-masuks-football-team/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/scout-troops-62-and-26-bid-fond-farewells-to-former-leaders/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-15T00:19:09+00:00"
-        },
-        {
-          "title": "David Wolfe always embodied the Rotary motto: Service Above Self",
-          "url": "https://themonroesun.com/david-wolfe-always-embodied-the-rotary-motto-service-above-self/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-14T18:16:34+00:00"
         }
       ]
     },
