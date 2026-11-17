@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:23:24.742195+00:00",
+  "updated_at": "2026-11-17T19:14:15.917036+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Hair Lux by Jenny in Monroe, an American dream come true",
+          "url": "https://themonroesun.com/hair-lux-by-jenny-in-monroe-an-american-dream-come-true/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-17T15:02:23+00:00"
+        },
+        {
           "title": "Monroe donates $100,000 for Veterans & First Responders Center project",
           "url": "https://themonroesun.com/monroe-donates-100000-for-veterans-first-responders-center-project/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/masuk-girls-volleyball-team-reaches-class-l-state-semis/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-15T02:39:04+00:00"
-        },
-        {
-          "title": "Scout Troops 62 and 26 bid fond farewells to former leaders",
-          "url": "https://themonroesun.com/scout-troops-62-and-26-bid-fond-farewells-to-former-leaders/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-15T00:19:09+00:00"
         }
       ]
     },
