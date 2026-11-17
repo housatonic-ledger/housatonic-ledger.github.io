@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-16T19:07:59.692243+00:00",
+  "updated_at": "2026-11-17T01:25:04.491107+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "California sues OpenAI over hacking risks",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
+    },
     {
       "source": "NPR",
       "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones"
     },
     {
-      "source": "NPR",
-      "title": "Nearly two million people are behind bars in the US. How did we get here?",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here"
+      "source": "BBC News",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
+      "title": "The young people caught up in Britain's Neets crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
+      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
