@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-18T01:29:15.077049+00:00",
+  "updated_at": "2026-11-18T07:29:46.983116+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+      "url": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan"
+    },
     {
       "source": "NPR",
       "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
     },
     {
-      "source": "NPR",
-      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy"
+      "source": "BBC News",
+      "title": "Burnham promises to 'move quickly' on Neets report",
+      "url": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Government backs welfare shake-up to prevent 'lost generation'",
-      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
+      "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "'It's hard to keep going': Neets speak to BBC about struggling to get a job",
-      "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
