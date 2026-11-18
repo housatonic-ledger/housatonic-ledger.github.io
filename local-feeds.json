@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T19:14:15.917036+00:00",
+  "updated_at": "2026-11-18T01:29:15.129477+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -12,6 +12,12 @@
           "published_at": "2026-11-09T08:00:00+00:00"
         },
         {
+          "title": "Man fatally shot in Newtown home identified as 49-year-old, police say",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkFrMU5KbVN0S0FmZG01YkJ3QTVla1IzSE40VVVHOWw4RFlCNndITTdSeHpvMjhDTlhrTU1xWHdONnBlRXVOQ25vVE5NMEJ2ckdOYzdlMHRnUndsdjc0djZQVEpNampZdnU2ZnhtTFc4TDQ4cGdYZTZRbklGcHhyS3I4UTFDd2pUOE9Td1VPd3Yzd05OVFZCMktVR0NjREg5N0pR?oc=5",
+          "source": "News-Times",
+          "published_at": "2026-10-27T07:00:00+00:00"
+        },
+        {
           "title": "Midterm Elections Underway. Here Are Your Choices And Voting Options.",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFhPekw0eGRKaG5CNTl6T3h6ODh5ZThsZ2tXZ0JXZ2FNNXVaRzMwVjQ5clJxZS1FUXhnNVFEemRZM3N2UTFVN1BrS3h1c1hIczJUTGtPaDhzcDExYmhUdnlhYzEwUGtQU3MyMHZSM3NIRHU4a2tWcG5IZlZFNTJ1MmFKMkRITEZzSjlYNmtqbldhcml0emhUTzI5SHBzOGJWeWF1cmRFOA?oc=5",
           "source": "The Newtown Bee",
@@ -22,12 +28,6 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcnZ4WTJUNFZwR2d4X1p4MFVxNzZQZFJUbHFFaDNnelFIUlNydFJ6WnVFUVRreXZRa2ZtdGxuQ21RTnpIZUE1RHFVUG9JVk1BakpSazR2clZsSDJ4bUdxZ0M2SGQyNmhCeDloSmpHZnB0MTkwOWUxRllHejR1bjh6YnZjZVdRU3hVY1VjZUl5RmxPdUxF?oc=5",
           "source": "Patch",
           "published_at": "2026-11-04T08:00:00+00:00"
-        },
-        {
-          "title": "Newtown High School (CT) Boys Volleyball",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VHBTYVNTcVR1dzFfVUo3U2E3M3lDdjJGVWQ1V294cGt1ODVmOUZRXzZwNVZxbU9lbVh1MVJuLU9pMG1Rd3dKVjJEUTdocWRVU1F4S2lsMHJCcDA4Vzd3ekR2LWVHMm9uak5LTHNWQUFzaGhXQUdpQkotRQ?oc=5",
-          "source": "MaxPreps",
-          "published_at": "2026-11-03T08:00:00+00:00"
         }
       ]
     },
@@ -35,6 +35,12 @@
       "name": "Monroe",
       "feed": "https://themonroesun.com/feed/",
       "items": [
+        {
+          "title": "Monroe Soccer Club’s U12 Girls capture the State Championship",
+          "url": "https://themonroesun.com/monroe-soccer-clubs-u12-girls-capture-the-state-championship/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-17T22:28:37+00:00"
+        },
         {
           "title": "Hair Lux by Jenny in Monroe, an American dream come true",
           "url": "https://themonroesun.com/hair-lux-by-jenny-in-monroe-an-american-dream-come-true/",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/senior-night-win-for-masuks-football-team/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-16T00:47:25+00:00"
-        },
-        {
-          "title": "Masuk girls volleyball team reaches Class L State semis",
-          "url": "https://themonroesun.com/masuk-girls-volleyball-team-reaches-class-l-state-semis/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-15T02:39:04+00:00"
         }
       ]
     },
@@ -72,16 +72,16 @@
           "published_at": "2026-11-04T08:00:00+00:00"
         },
         {
-          "title": "Brookfield High School (CT) Volleyball",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QWURYVHBLUUlfUkkzSGRPTFVDZEJtRlZBX0NsTHZ0TUxPbXRwWE50V28wekllc1A1aXpFb0ltOHByenE2WWJVNFRMazA0YjR0b1VDVmt0U2xfUnNPU2cxM2h0eVVQdVpmekFySXhuTUFiWHdSakVfaQ?oc=5",
-          "source": "MaxPreps",
-          "published_at": "2026-11-12T08:00:00+00:00"
-        },
-        {
           "title": "Brookfield students suffer minor injuries after school bus rear-ended",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1A4MUd6cXhhcmxva2poYnh1cHBjN0VCRWRuRnJZZzZaeWMtOW1aeG9YTGN0X0ltejdpWEh0MXowUjc4eUZ1b05DZEgwc1pkQVdEaWhDbS0tTi1CUU1WYngxOTdUQ3VSM3Z3VjlkQ1BJQXhTZTViRjNZSWJYek9uSzRuSFZjbmNGMXhIaXkyQm00TWRKZWRCeUdvbWoyYUNtR21KZVVscTNueU5SMWlEcGtoRDZpNXFMdFRkckhvS3pCWVdvRlgzWNIBzgFBVV95cUxNWnF0eW00SXZkRWEzNi1NQ1NjZVRGVnljeVRFQ3JoSkFzU2YtTmNDRkJnUXpQU1FnT3dwVWN3NTJwRHJCdUtEN2pudGxkSE5qdmxzUGhwdC0tVFJzSnNGWnRVcmZkMUM0QnVSdVprQl8yVXlTMXJCemNFQmxkbmV4T3Z4ZHQ0SVBuUTByYng5UWk2eXlJOW1QdkhudzVKTlFMdGxTR0JTSW9hcHR1VDA0Rk91M09FV2hiOTRkeTFCc0xqVFBJZy0wbFpWbG4zQQ?oc=5",
           "source": "WTNH.com",
           "published_at": "2026-10-26T07:00:00+00:00"
+        },
+        {
+          "title": "Thomas Roderick Hensal Obituary (2026) - Brookfield, CT - Brookfield Funeral Home",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU1FMeEw3Z1BKWVVUb0dpaDFYSUxGcWVoWVMteWE3WjZVN1cxNzJZMy1RQzhDamVUREZJa1AxcjFpTW0xYTlIU1hMai15MWJSRUlfV3RvWGFYSmk5c0VQb1ZWQWsyQUlBTUpoem52V1VZelNiOFpRTDlZVEtoZkhnS2N3?oc=5",
+          "source": "Legacy | Obituary",
+          "published_at": "2026-11-10T20:16:08+00:00"
         },
         {
           "title": "Injuries reported after crash involving school bus in Brookfield",
