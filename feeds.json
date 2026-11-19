@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-19T01:26:12.532919+00:00",
+  "updated_at": "2026-11-19T07:30:24.899328+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Win a trip to go behind the news with NPR",
+      "url": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway"
+    },
     {
       "source": "NPR",
       "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
@@ -8,18 +13,13 @@
     },
     {
       "source": "NPR",
-      "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl"
-    },
-    {
-      "source": "NPR",
-      "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-      "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design"
+      "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say"
     },
     {
       "source": "BBC News",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
@@ -28,8 +28,8 @@
     },
     {
       "source": "BBC News",
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+      "title": "'Feudal' leasehold system set to be scrapped in England and Wales",
+      "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
