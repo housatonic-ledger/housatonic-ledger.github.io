@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-18T19:08:55.203849+00:00",
+  "updated_at": "2026-11-19T01:26:12.532919+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
+    },
     {
       "source": "NPR",
       "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design"
     },
     {
-      "source": "NPR",
-      "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast"
-    },
-    {
       "source": "BBC News",
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
       "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
+      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
