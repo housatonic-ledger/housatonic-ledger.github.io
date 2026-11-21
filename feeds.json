@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-21T13:10:04.385063+00:00",
+  "updated_at": "2026-11-21T18:59:41.744446+00:00",
   "items": [
     {
       "source": "NPR",
-      "title": "Perspective: Defining 'human'",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human"
+      "title": "Storms expected on both coasts threatens Thanksgiving travel",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino"
     },
     {
       "source": "NPR",
-      "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas"
+      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
     },
     {
       "source": "NPR",
-      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-      "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
+      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
     },
     {
       "source": "BBC News",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+      "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
       "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
       "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
