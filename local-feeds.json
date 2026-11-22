@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T18:59:41.791168+00:00",
+  "updated_at": "2026-11-22T01:22:09.549749+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "State Champs! Masuk Panthers earn 1st title in program history",
+          "url": "https://themonroesun.com/state-champs-masuk-panthers-earn-1st-title-in-program-history/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-21T21:12:39+00:00"
+        },
+        {
           "title": "Monroe zoning board denies remaining proposals for Main St. apartments",
           "url": "https://themonroesun.com/monroe-zoning-board-denies-remaining-proposals-for-main-st-apartments/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/monroe-giving-tree-program-needs-donations-for-families-in-need/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-19T19:53:01+00:00"
-        },
-        {
-          "title": "Masuk High School Presents: ‘The Addams Family’",
-          "url": "https://themonroesun.com/masuk-high-school-presents-the-addams-family/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-19T15:26:23+00:00"
         }
       ]
     },
@@ -72,10 +72,10 @@
           "published_at": "2026-11-04T08:00:00+00:00"
         },
         {
-          "title": "Brookfield students suffer minor injuries after school bus rear-ended",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1A4MUd6cXhhcmxva2poYnh1cHBjN0VCRWRuRnJZZzZaeWMtOW1aeG9YTGN0X0ltejdpWEh0MXowUjc4eUZ1b05DZEgwc1pkQVdEaWhDbS0tTi1CUU1WYngxOTdUQ3VSM3Z3VjlkQ1BJQXhTZTViRjNZSWJYek9uSzRuSFZjbmNGMXhIaXkyQm00TWRKZWRCeUdvbWoyYUNtR21KZVVscTNueU5SMWlEcGtoRDZpNXFMdFRkckhvS3pCWVdvRlgzWNIBzgFBVV95cUxNWnF0eW00SXZkRWEzNi1NQ1NjZVRGVnljeVRFQ3JoSkFzU2YtTmNDRkJnUXpQU1FnT3dwVWN3NTJwRHJCdUtEN2pudGxkSE5qdmxzUGhwdC0tVFJzSnNGWnRVcmZkMUM0QnVSdVprQl8yVXlTMXJCemNFQmxkbmV4T3Z4ZHQ0SVBuUTByYng5UWk2eXlJOW1QdkhudzVKTlFMdGxTR0JTSW9hcHR1VDA0Rk91M09FV2hiOTRkeTFCc0xqVFBJZy0wbFpWbG4zQQ?oc=5",
-          "source": "WTNH.com",
-          "published_at": "2026-10-26T07:00:00+00:00"
+          "title": "Brookfield Soccer Schedule",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PS3NhbzA3Z1llR19EY1VSbkNEWGc3RHlHeV95eFNQSlBnOGlxRG42amFxZzI2MWZldzlMOU9OS2dKdmQxOWtQNUNjQ3lOWndEUm1LR0RraWxtOTZLd0tScjVjZ2E5aEJidHZDQWxmSUZUbUJwMTJxRHRHaHlwUnc?oc=5",
+          "source": "MaxPreps",
+          "published_at": "2026-11-08T08:00:00+00:00"
         },
         {
           "title": "Brookfield man arrested after firearm assault injures two people",
@@ -84,10 +84,10 @@
           "published_at": "2026-11-18T15:57:00+00:00"
         },
         {
-          "title": "Brookfield Soccer Schedule",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PS3NhbzA3Z1llR19EY1VSbkNEWGc3RHlHeV95eFNQSlBnOGlxRG42amFxZzI2MWZldzlMOU9OS2dKdmQxOWtQNUNjQ3lOWndEUm1LR0RraWxtOTZLd0tScjVjZ2E5aEJidHZDQWxmSUZUbUJwMTJxRHRHaHlwUnc?oc=5",
-          "source": "MaxPreps",
-          "published_at": "2026-11-08T08:00:00+00:00"
+          "title": "Multiple agencies serve search and arrest warrants for man accused of assault at Brookfield home",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmhhckJqdjZQaDdtaGdFM1J5ZVdMcHZKWXVWdGZySGRzdE1LSk5MVWx0Tm5NY1JXZlVuLVBHNGw1bHF0dGtKTEdWY0ZNWkFmWDZkTnFNOGtyMTdwZV9QdTh6bF9CTjJldlI3OWpRQ0lWcHQtYmJ5ODdaVkNOUW5yNUdBX2RDdjRZSUZmUzFadGpUbWw5R25XbmNjVThXOC0tRlFhbk5ucUZxMUNSOXdvbWlPOXlUaDBQ0gG-AUFVX3lxTE55OFRPUGNVS05qZnVwVVlyY2ZMSklWOUdId3dySE5oako2YXJQNmQyT3FDNlVyZFF4djNMTFplLWJpRV8yTjZZVS11b0lNejRDZDBVN0RIRS1CazV5TGJoYTlGQ3hWMi0teE95XzlWSDFCS3V1TUVTNktzekszR3FueDl0X2lUZUJTbm9uSVVzX3ltaDczd2JEZkFzVWpySWgzSWN2VENTbUJHdjVNN0lFSmdBWGtWVWNlWFV5NEE?oc=5",
+          "source": "WTNH.com",
+          "published_at": "2026-11-18T12:54:09+00:00"
         }
       ]
     },
