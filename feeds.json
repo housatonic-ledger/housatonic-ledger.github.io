@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-23T01:27:37.153709+00:00",
+  "updated_at": "2026-11-23T07:48:46.598971+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly"
+    },
     {
       "source": "NPR",
       "title": "What it's like at a climate conference as talks collapse",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill"
     },
     {
-      "source": "NPR",
-      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes"
+      "source": "BBC News",
+      "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+      "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
       "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
       "title": "What's next after no deal at COP31 climate talks?",
       "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
