@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-23T13:33:10.010225+00:00",
+  "updated_at": "2026-11-23T19:13:57.818219+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump"
+    },
     {
       "source": "NPR",
       "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
       "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
-    },
-    {
-      "source": "NPR",
-      "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
-      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
-    },
-    {
-      "source": "NPR",
-      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety"
     },
     {
       "source": "BBC News",
@@ -23,13 +23,13 @@
     },
     {
       "source": "BBC News",
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
+      "title": "How Ukraine attacked Russian ships in Libya",
+      "url": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
-      "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
+      "title": "UK to host 2035 Women's World Cup, Fifa confirms",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
