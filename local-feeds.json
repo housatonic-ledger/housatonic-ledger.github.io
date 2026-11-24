@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T13:28:58.993491+00:00",
+  "updated_at": "2026-11-24T19:12:48.124250+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Rooney issues proclamation celebrating MonStars’ State title",
+          "url": "https://themonroesun.com/rooney-issues-proclamation-celebrating-monstars-state-title/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-24T18:56:05+00:00"
+        },
+        {
           "title": "Monroe Police Reports: Waterbury man charged in theft at Goodwill",
           "url": "https://themonroesun.com/monroe-police-reports-waterbury-man-charged-in-theft-at-goodwill/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/not-cooking-this-thanksgiving-aldinis-will-prepare-turkey-dinner-with-all-the-fixins/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-22T21:13:35+00:00"
-        },
-        {
-          "title": "State Champs! Masuk Panthers earn 1st title in program history",
-          "url": "https://themonroesun.com/state-champs-masuk-panthers-earn-1st-title-in-program-history/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-21T21:12:39+00:00"
         }
       ]
     },
@@ -66,10 +66,10 @@
       "feed": "https://news.google.com/rss/search?q=%22Brookfield%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
       "items": [
         {
-          "title": "Brookfield Election Results 2026: Vote Totals For Every Race",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVBTMUFPWFVBc2lueEx3SVl4eTBoRUFsLTBRNkJCQ291VU1YemdfaHZpVWt6WnpJUmE3STZQVktpM2ozQjV5MlhSaVBLOUdDYUtLR0hZaHE3R1pmVnF3dzZ0UDJYWUl4MVlyaTVpU1dtVG14RFNFMXhQcjh5VzBlM3dSY0Nuc3JvMGROUk9mTU1IZVFSQ2VmVllDeV8?oc=5",
+          "title": "Brookfield 2026 Election Voter Guide: Meet The Candidates",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnRhZ3RZOXlnN3FYX2FmakZaUE55bm9QX0pzY2JrdDFDVVgwdGV5aS1oWVJmZGlZRVdyWE0ydzlsOWE1NzB0LWNoRDFmeG9ZXzY3N0tuWGZFVHRHZUVjdURLd3BnYW05QWZkTTl0OWF3TTJVUFlfVktNZS0ySWx4X2lkZU4ydzBCTlFDMElfTFA3Z2ZWUVdFdQ?oc=5",
           "source": "Patch",
-          "published_at": "2026-11-04T08:00:00+00:00"
+          "published_at": "2026-11-02T08:00:00+00:00"
         },
         {
           "title": "Injuries reported after crash involving school bus in Brookfield",
@@ -84,10 +84,10 @@
           "published_at": "2026-11-04T08:00:00+00:00"
         },
         {
-          "title": "Multiple agencies serve search and arrest warrants for man accused of assault at Brookfield home",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmhhckJqdjZQaDdtaGdFM1J5ZVdMcHZKWXVWdGZySGRzdE1LSk5MVWx0Tm5NY1JXZlVuLVBHNGw1bHF0dGtKTEdWY0ZNWkFmWDZkTnFNOGtyMTdwZV9QdTh6bF9CTjJldlI3OWpRQ0lWcHQtYmJ5ODdaVkNOUW5yNUdBX2RDdjRZSUZmUzFadGpUbWw5R25XbmNjVThXOC0tRlFhbk5ucUZxMUNSOXdvbWlPOXlUaDBQ0gG-AUFVX3lxTE55OFRPUGNVS05qZnVwVVlyY2ZMSklWOUdId3dySE5oako2YXJQNmQyT3FDNlVyZFF4djNMTFplLWJpRV8yTjZZVS11b0lNejRDZDBVN0RIRS1CazV5TGJoYTlGQ3hWMi0teE95XzlWSDFCS3V1TUVTNktzekszR3FueDl0X2lUZUJTbm9uSVVzX3ltaDczd2JEZkFzVWpySWgzSWN2VENTbUJHdjVNN0lFSmdBWGtWVWNlWFV5NEE?oc=5",
+          "title": "Brookfield students suffer minor injuries after school bus rear-ended",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1A4MUd6cXhhcmxva2poYnh1cHBjN0VCRWRuRnJZZzZaeWMtOW1aeG9YTGN0X0ltejdpWEh0MXowUjc4eUZ1b05DZEgwc1pkQVdEaWhDbS0tTi1CUU1WYngxOTdUQ3VSM3Z3VjlkQ1BJQXhTZTViRjNZSWJYek9uSzRuSFZjbmNGMXhIaXkyQm00TWRKZWRCeUdvbWoyYUNtR21KZVVscTNueU5SMWlEcGtoRDZpNXFMdFRkckhvS3pCWVdvRlgzWNIBzgFBVV95cUxNWnF0eW00SXZkRWEzNi1NQ1NjZVRGVnljeVRFQ3JoSkFzU2YtTmNDRkJnUXpQU1FnT3dwVWN3NTJwRHJCdUtEN2pudGxkSE5qdmxzUGhwdC0tVFJzSnNGWnRVcmZkMUM0QnVSdVprQl8yVXlTMXJCemNFQmxkbmV4T3Z4ZHQ0SVBuUTByYng5UWk2eXlJOW1QdkhudzVKTlFMdGxTR0JTSW9hcHR1VDA0Rk91M09FV2hiOTRkeTFCc0xqVFBJZy0wbFpWbG4zQQ?oc=5",
           "source": "WTNH.com",
-          "published_at": "2026-11-18T12:54:09+00:00"
+          "published_at": "2026-10-26T07:00:00+00:00"
         }
       ]
     },
@@ -95,6 +95,12 @@
       "name": "Southbury",
       "feed": "https://southburyrecord.com/feed/",
       "items": [
+        {
+          "title": "SACA and Southbury Public Library Launch New Sketchbook Club for Young Artists",
+          "url": "https://southburyrecord.com/2026/11/24/saca-and-southbury-public-library-launch-new-sketchbook-club-for-young-artists/",
+          "source": "The Southbury Record",
+          "published_at": "2026-11-24T14:55:00+00:00"
+        },
         {
           "title": "Southbury Volunteer Fire Department Targeted in $20,000 Invoice Scam",
           "url": "https://southburyrecord.com/2026/11/23/southbury-volunteer-fire-department-targeted-in-20000-invoice-scam/",
@@ -112,12 +118,6 @@
           "url": "https://southburyrecord.com/2026/11/23/pomperaug-girls-soccer-falls-in-class-l-final/",
           "source": "The Southbury Record",
           "published_at": "2026-11-23T16:03:14+00:00"
-        },
-        {
-          "title": "Pomperaug Rallies in Final Minute to Force Overtime, Defeat Notre Dame Prep",
-          "url": "https://southburyrecord.com/2026/11/20/pomperaug-rallies-in-final-minute-to-force-overtime-defeat-notre-dame-prep/",
-          "source": "The Southbury Record",
-          "published_at": "2026-11-21T04:27:41+00:00"
         }
       ]
     }
