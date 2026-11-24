@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T01:26:18.954939+00:00",
+  "updated_at": "2026-11-24T07:33:29.732256+00:00",
   "items": [
     {
       "source": "NPR",
@@ -18,18 +18,18 @@
     },
     {
       "source": "BBC News",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Benefits review to suggest quicker payment for some disabled people",
-      "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss"
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
       "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
       "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Pip benefits review to suggest quicker payment for some disabled people",
+      "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
