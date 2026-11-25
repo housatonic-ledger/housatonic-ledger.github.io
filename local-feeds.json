@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T19:12:48.124250+00:00",
+  "updated_at": "2026-11-25T07:37:50.648435+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Monroe to pursue first building project for Shelton Road firehouse since 1965",
+          "url": "https://themonroesun.com/monroe-to-pursue-first-building-project-for-shelton-road-firehouse-since-1965/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-25T02:44:42+00:00"
+        },
+        {
           "title": "Rooney issues proclamation celebrating MonStars’ State title",
           "url": "https://themonroesun.com/rooney-issues-proclamation-celebrating-monstars-state-title/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/masuk-student-hosts-2nd-annual-winter-clothing-drive/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-23T23:26:03+00:00"
-        },
-        {
-          "title": "Not cooking this Thanksgiving? Aldini’s will prepare turkey dinner with all the fixins",
-          "url": "https://themonroesun.com/not-cooking-this-thanksgiving-aldinis-will-prepare-turkey-dinner-with-all-the-fixins/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-22T21:13:35+00:00"
         }
       ]
     },
@@ -66,22 +66,22 @@
       "feed": "https://news.google.com/rss/search?q=%22Brookfield%22%20Connecticut%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
       "items": [
         {
-          "title": "Brookfield 2026 Election Voter Guide: Meet The Candidates",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnRhZ3RZOXlnN3FYX2FmakZaUE55bm9QX0pzY2JrdDFDVVgwdGV5aS1oWVJmZGlZRVdyWE0ydzlsOWE1NzB0LWNoRDFmeG9ZXzY3N0tuWGZFVHRHZUVjdURLd3BnYW05QWZkTTl0OWF3TTJVUFlfVktNZS0ySWx4X2lkZU4ydzBCTlFDMElfTFA3Z2ZWUVdFdQ?oc=5",
+          "title": "Brookfield Election Results 2026: Vote Totals For Every Race",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVBTMUFPWFVBc2lueEx3SVl4eTBoRUFsLTBRNkJCQ291VU1YemdfaHZpVWt6WnpJUmE3STZQVktpM2ozQjV5MlhSaVBLOUdDYUtLR0hZaHE3R1pmVnF3dzZ0UDJYWUl4MVlyaTVpU1dtVG14RFNFMXhQcjh5VzBlM3dSY0Nuc3JvMGROUk9mTU1IZVFSQ2VmVllDeV8?oc=5",
           "source": "Patch",
-          "published_at": "2026-11-02T08:00:00+00:00"
-        },
-        {
-          "title": "Injuries reported after crash involving school bus in Brookfield",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV01wZW94dGJZa2NMejFkQXIxZHpZa3lNUUZQR25wODNHR3ZsaG0ySG1hcXRGcE9CRUtGN2lHamM4Q2hhRWI3NDgwTThoeDhMX3VQSGtrclQ4RXJLT2lRVkgyMWRVOFBQSm1jLXBpYlFlU19pbFhTb2t1TmFYME92dFczUlpEZjlkaHBCLWJRcU5kOWd1bndhd1930gGuAUFVX3lxTFBsMHdzYUhEOE9JVTFNX0dqdzRLdFl2MDQwblZwSVViMGVMVHFRZjQ1TG5la0F4UlFuN3prWHAyY0VSVXdUNXNjcWFEcGRGN2NsazQ5X1R3OVhaVks5MVhYUXA4dHAtM3FRTGhpUXVHZkNDcC0yMkZqX202MUdHVmRPUnBiUGNzOVlERU1MYUxMM3dHSDZQdGlCMDhlNUdsV2wtNUNPR2RZeTBBLUlxQQ?oc=5",
-          "source": "WFSB",
-          "published_at": "2026-10-26T07:00:00+00:00"
+          "published_at": "2026-11-04T08:00:00+00:00"
         },
         {
           "title": "Blue wave crashes over CT General Assembly",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uSlR2Uk00ZnR1alhxSklLaGdmQS1rakt1bzBTODdLUHlSS3BLRkhxWmtSQ3ByQzlxOF82dnd4bHAtNVFuTTNmek9KOUFwWHZlV2lac1ZkX0pRQ2MtVkNYaVdVSEIzYWRfV0RFdXdZTllYZG1leFkxeWdCUDhLUQ?oc=5",
           "source": "CT Mirror",
           "published_at": "2026-11-04T08:00:00+00:00"
+        },
+        {
+          "title": "School bus crash sparks fire, closed Candlewood Lake Road in Brookfield, officials say",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeFN4bGVsNHk4aHozX2xWcENwSFIxZlNtcWNVWUhzZEJCeFUwVW10VVZZNHVIbW1iT0QwNWFSc0hlTkRVMW9fTWl2S21oeC0tMnMydXZMaERnWENRb2cweEg3TTV3Q0lTMVE3eC1ZMUd4LUhUa0pQd0VhbnZzdkFESEZ0d2Q2YkZQXzZGbWRFLWMtQzFFMTJmQWQzQmtRN1k4?oc=5",
+          "source": "News-Times",
+          "published_at": "2026-10-26T07:00:00+00:00"
         },
         {
           "title": "Brookfield students suffer minor injuries after school bus rear-ended",
