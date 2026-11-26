@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-26T13:34:09.382660+00:00",
+  "updated_at": "2026-11-26T19:13:11.706144+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+    },
+    {
+      "source": "NPR",
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+    },
     {
       "source": "NPR",
       "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
       "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
     },
     {
-      "source": "NPR",
-      "title": "'Memories of a Good Meal': How food made a difference during WWII",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya"
-    },
-    {
-      "source": "NPR",
-      "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque"
+      "source": "BBC News",
+      "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+      "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
-      "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: How knife attack on train unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cq36gjw04pgjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
+      "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+      "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
