@@ -31,5 +31,19 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add feeds.json local-feeds.json
             git commit -m "Refresh attributed external news headlines"
-            git push
+            # GitHub occasionally rejects a valid push with an HTTP 500.
+            # Retry transient failures without force-pushing or masking a persistent error.
+            for attempt in 1 2 3 4; do
+              if git push; then
+                echo "RSS caches committed successfully."
+                exit 0
+              fi
+              if [ "$attempt" -lt 4 ]; then
+                delay=$((attempt * 5))
+                echo "Git push attempt $attempt failed; retrying in ${delay}s..."
+                sleep "$delay"
+              fi
+            done
+            echo "::error::Could not push RSS caches after four attempts."
+            exit 1
           fi
