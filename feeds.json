@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-25T19:06:56.700322+00:00",
+  "updated_at": "2026-11-26T01:30:03.703460+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"
+    },
     {
       "source": "NPR",
       "title": "Group of Senate Democrats push to add freshman to leadership",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer"
     },
     {
-      "source": "NPR",
-      "title": "What to know before using AI agents for Black Friday shopping",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping"
+      "source": "BBC News",
+      "title": "Stalking law simplified to become one offence",
+      "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
       "title": "Poundland collapses putting 11,000 jobs at risk",
       "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Why has Poundland collapsed and what happens next?",
-      "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "US announces new tariff proposals on EU, China, and other trade partners",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
