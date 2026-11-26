@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T01:30:03.750844+00:00",
+  "updated_at": "2026-11-26T07:36:09.120159+00:00",
   "towns": {
     "newtown": {
       "name": "Newtown",
@@ -36,6 +36,12 @@
       "feed": "https://themonroesun.com/feed/",
       "items": [
         {
+          "title": "Unbeaten! Masuk football team finishes 10-0 season",
+          "url": "https://themonroesun.com/unbeaten-masuk-football-team-finishes-10-0-season/",
+          "source": "The Monroe Sun",
+          "published_at": "2026-11-26T04:49:02+00:00"
+        },
+        {
           "title": "Monroe Police Reports: Two evading incidents, a wide left turn",
           "url": "https://themonroesun.com/monroe-police-reports-two-evading-incidents-a-wide-left-turn/",
           "source": "The Monroe Sun",
@@ -52,12 +58,6 @@
           "url": "https://themonroesun.com/rooney-issues-proclamation-celebrating-monstars-state-title/",
           "source": "The Monroe Sun",
           "published_at": "2026-11-24T18:56:05+00:00"
-        },
-        {
-          "title": "Monroe Police Reports: Waterbury man charged in theft at Goodwill",
-          "url": "https://themonroesun.com/monroe-police-reports-waterbury-man-charged-in-theft-at-goodwill/",
-          "source": "The Monroe Sun",
-          "published_at": "2026-11-23T23:28:50+00:00"
         }
       ]
     },
@@ -84,10 +84,10 @@
           "published_at": "2026-11-18T15:57:00+00:00"
         },
         {
-          "title": "Multiple agencies serve search and arrest warrants for man accused of assault at Brookfield home",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmhhckJqdjZQaDdtaGdFM1J5ZVdMcHZKWXVWdGZySGRzdE1LSk5MVWx0Tm5NY1JXZlVuLVBHNGw1bHF0dGtKTEdWY0ZNWkFmWDZkTnFNOGtyMTdwZV9QdTh6bF9CTjJldlI3OWpRQ0lWcHQtYmJ5ODdaVkNOUW5yNUdBX2RDdjRZSUZmUzFadGpUbWw5R25XbmNjVThXOC0tRlFhbk5ucUZxMUNSOXdvbWlPOXlUaDBQ0gG-AUFVX3lxTE55OFRPUGNVS05qZnVwVVlyY2ZMSklWOUdId3dySE5oako2YXJQNmQyT3FDNlVyZFF4djNMTFplLWJpRV8yTjZZVS11b0lNejRDZDBVN0RIRS1CazV5TGJoYTlGQ3hWMi0teE95XzlWSDFCS3V1TUVTNktzekszR3FueDl0X2lUZUJTbm9uSVVzX3ltaDczd2JEZkFzVWpySWgzSWN2VENTbUJHdjVNN0lFSmdBWGtWVWNlWFV5NEE?oc=5",
-          "source": "WTNH.com",
-          "published_at": "2026-11-18T12:54:09+00:00"
+          "title": "'Insane.' Brookfield mom recalls fiery school bus crash in front of her home, thanks first responders",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2wxeVhyNHZDRDlFQjRpTGpfY2ItWGVhNlVURmdXTDdCMW00ZHJrelp3ck9KUGEyeDVteDd4XzNsdE5zY2lKU3puUWZrM2JvdUdRbm9TQmhZX2QyUnZFUlNyRm96U3gtRlR0QTloT3RzbmVEUWV6a3ZmcjNrSFBnT3JDVmFua2Nrd0ttYy1rYkFaY25iSldnWjVJQlFXTkdDN2s5aV9ucGtuQkN2?oc=5",
+          "source": "News12 | Connecticut",
+          "published_at": "2026-10-27T07:00:00+00:00"
         }
       ]
     },
