@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-26T12:07:53.111938+00:00",
+  "updated_at": "2026-11-26T13:34:09.382660+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
+    },
     {
       "source": "NPR",
       "title": "'Memories of a Good Meal': How food made a difference during WWII",
@@ -12,9 +17,9 @@
       "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque"
     },
     {
-      "source": "NPR",
-      "title": "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid"
+      "source": "BBC News",
+      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
@@ -25,11 +30,6 @@
       "source": "BBC News",
       "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
       "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
-      "url": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
