@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-27T01:32:29.438317+00:00",
+  "updated_at": "2026-11-27T07:35:10.326623+00:00",
   "items": [
+    {
+      "source": "NPR",
+      "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+      "url": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit"
+    },
     {
       "source": "NPR",
       "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
@@ -12,24 +17,19 @@
       "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
     },
     {
-      "source": "NPR",
-      "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
-    },
-    {
       "source": "BBC News",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
-      "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Zelensky on Trump and Putin",
+      "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
-      "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
-      "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss"
+      "title": "'I wouldn't be here today without you': Student's praise for man who stopped train attacker",
+      "url": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
