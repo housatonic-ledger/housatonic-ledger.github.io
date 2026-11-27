@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T13:29:07.503396+00:00",
+  "updated_at": "2026-11-27T19:11:14.713940+00:00",
   "items": [
     {
       "source": "NPR",
@@ -18,18 +18,18 @@
     },
     {
       "source": "BBC News",
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Watch: What has happened to DWP online services?",
+      "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "'A lonely road': Catherine joins cancer support group in new documentary",
-      "url": "https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
-      "url": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
