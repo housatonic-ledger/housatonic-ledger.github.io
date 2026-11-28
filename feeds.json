@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T01:28:34.861006+00:00",
+  "updated_at": "2026-11-28T07:28:36.864238+00:00",
   "items": [
     {
       "source": "NPR",
@@ -18,18 +18,18 @@
     },
     {
       "source": "BBC News",
-      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Watch: What has happened to DWP online services?",
-      "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss"
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
       "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
       "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC News",
+      "title": "Pharmacies get new powers to swap prescriptions during shortages",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
