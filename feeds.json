@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-11-28T07:28:36.864238+00:00",
+  "updated_at": "2026-11-28T13:13:26.668918+00:00",
   "items": [
     {
       "source": "NPR",
-      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
-      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+      "title": "Perspective: A hero's name lives on",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on"
     },
     {
       "source": "NPR",
-      "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france"
+      "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan"
     },
     {
       "source": "NPR",
-      "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday"
+      "title": "New wave of Democratic attorneys general may reshape the justice system",
+      "url": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas"
+    },
+    {
+      "source": "BBC News",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC News",
@@ -23,13 +28,8 @@
     },
     {
       "source": "BBC News",
-      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC News",
-      "title": "Pharmacies get new powers to swap prescriptions during shortages",
-      "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss"
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "sources": [
